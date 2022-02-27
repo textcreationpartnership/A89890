@@ -1,0 +1,616 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for the King, and kingdome; by way of answer to the late remonstrance of the Army, presented to the House of Commons on Monday Novemb. 20. Proving, that it tends to subvert the lawes, and fundamentall constitutions of this kingdom, and demolish the very foundations of government in generall.</title>
+            <author>Nedham, Marchamont, 1620-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89890</idno>
+            <idno type="STC">Wing N402</idno>
+            <idno type="STC">Thomason E474_2</idno>
+            <idno type="STC">ESTC R202961</idno>
+            <idno type="EEBO-CITATION">99863080</idno>
+            <idno type="PROQUEST">99863080</idno>
+            <idno type="VID">115262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115262)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E474[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for the King, and kingdome; by way of answer to the late remonstrance of the Army, presented to the House of Commons on Monday Novemb. 20. Proving, that it tends to subvert the lawes, and fundamentall constitutions of this kingdom, and demolish the very foundations of government in generall.</title>
+                  <author>Nedham, Marchamont, 1620-1678.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Mercurius Pragmaticus, i.e. Marchamont Nedham.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>A variant has the text to sig. D wrongly set in the following order: p. 21, 26, 27, 24, 25, 22, 23, 28.</note>
+                  <note>Annotation on Thomason copy: "Nou: 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Council. --  Remonstrance of His Excellency Thomas Lord Fairfax, Lord General of the Parliaments forces. And of the generall councell of officers held at St Albans the 16. of November, 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Constitutional history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:115262:1" rendition="simple:additions"/> A PLEA for THE KING, AND KINGDOME;</p>
+            <p>By way of <hi>Anſwer</hi> to the late Remonſtrance of the Army, <hi>Preſented to the Houſe of Commons on Monday Novemb.</hi> 20.</p>
+            <p>Proving, that it tends to ſubvert the <hi>Lawes,</hi> and
+<hi>fundamentall Constitutions</hi> of this Kingdom, and demoliſh the very
+<hi>Foundations</hi> of <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> in generall.</p>
+            <q>
+               <bibl>Seneca.</bibl>
+               <l>Proſperum ac faelix Scelus, virtus vocatur.</l>
+               <l>Ius eſt in Armis.—</l>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Merc. Prag.</hi>
+               </bibl>
+               <l>Now proſp'rous miſchief makes it good,</l>
+               <l>Againſt both LAVV and REASON,</l>
+               <l>Not to ſpill ROYALL-LOYALL Blood,</l>
+               <l>But to be Conquer'd's TREASON.</l>
+            </q>
+            <p>Printed in the Yeere 1648.</p>
+            <pb facs="tcp:115262:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:115262:2"/>
+            <head>To the <hi>Commons</hi> aſſembled in Parliament.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>SInce the <hi>Abettors</hi> of this <hi>Remonſtrance</hi> have had the confidence to addreſſe themſelves, and preſcribe <hi>Rules</hi> to you in ſuch perempto<g ref="char:EOLhyphen"/>ry language, give me leave (under your favour and connivence) to publiſh an <hi>Anſwer</hi> thereunto by <hi>Pen,</hi> ſince (for ought I ſee) you dare not give it your ſelves by word of mouth; becauſe if you ſhould de<g ref="char:EOLhyphen"/>clare a ſenſe contrary to theirs (as in
+<hi>honor</hi> and <hi>conſcience</hi> you muſt) they have as good as told you in plain termes, that they will make your <hi>Houſe</hi> too hot to hold you.</p>
+            <p>I obſerve, their <hi>Remonſtrance</hi> is founded upon theſe
+<hi>principles:</hi> that their own <hi>Faction</hi> (whom alone they call the
+<hi>well-affected,</hi> and the <hi>honeſt men,</hi> excluding all others) are <hi>the People.</hi> Secondly, that their <hi>Intereſt</hi> is the only
+<hi>Intereſt</hi> of the <hi>People.</hi> Thirdly, that the <hi>Safety</hi> of the <hi>People</hi> is to be reſpected before any <hi>Kings,</hi> or
+<hi>Governers,</hi> or <hi>Go<g ref="char:EOLhyphen"/>vernments</hi> whatſoever. Laſtly, that themſelves are the only compe<g ref="char:EOLhyphen"/>tent <hi>Judges</hi> of the Peoples
+<hi>Safety,</hi> and ſo by conſequence may drive on their
+<hi>Deſigne</hi> againſt all <hi>Powers,</hi> and <hi>Forms</hi> of
+<hi>Government,</hi> and <hi>Law</hi> whatſoever, upon pretence of that old Aphoriſme, <hi>Salus Populi ſuprema Lex,</hi> the ſafety of the People is the <hi>ſoveraigne Law,</hi> which hath been the fruitfull mother of
+<hi>Rebellions</hi> in all ages, to ſerve the corrupt ends of <hi>ambitious perſons;</hi> who uſually fiſht in <hi>troubled waters</hi> to attain thoſe <hi>ends,</hi> which they could not hope for in a ſetled State of
+<hi>Commonweales</hi> and <hi>Kingdoms.</hi> And ſuch (now it is apparent to all the world) were ſome of you in the beginning of this <hi>Parliament;</hi> from whoſe <hi>plea</hi> and <hi>practices,</hi> this <hi>upſtart Faction</hi> have learned to re<g ref="char:EOLhyphen"/>bell againſt your ſelves, upon the very ſame <hi>principles</hi> and <hi>pretences</hi> that you firſt bandied againſt his <hi>Maieſty.</hi>
+            </p>
+            <p>I need not repeat here, how they have terrified and quell'd you from time to time, as often as you durſt but offer to ſpeak your
+<hi>con<g ref="char:EOLhyphen"/>ſciences</hi> in the behalf of the <hi>Publike,</hi> againſt their corrupt and private <hi>Intereſt.</hi> But all that is paſt is nothing to what they have preſented to you now, &amp; wherwith they have affronted you to your very faces, in this <hi>Remonſtrance.</hi> Do they not challenge you, as inconſtant to <pb facs="tcp:115262:3"/> your own <hi>Votes</hi> and
+<hi>Reſolutions,</hi> perfidious to that <hi>truſt</hi> repoſed in you, and ſuch as will not, or know not which way to ſettle the juſt
+<hi>Rights</hi> and <hi>Liberties</hi> of the <hi>People?</hi> And therefore they undertake to new-mold the <hi>fundamentall Conſtitutions</hi> of the Kingdom, and con<g ref="char:EOLhyphen"/>jure you to comply with them, and renounce your <hi>King,</hi> or any <hi>A<g ref="char:EOLhyphen"/>greement</hi> with him, and <hi>ſettlement</hi> by him; or otherwiſe they ſay, they ſhall be conſtrained to ſet a period to your
+<hi>Authority,</hi> and pro<g ref="char:EOLhyphen"/>vide themſelves of another <hi>Parliament,</hi> which ſhall be elected of per<g ref="char:EOLhyphen"/>ſons of their humor, and ſo eſtabliſh themſelves in a kind of <hi>legall Tyrannie,</hi> by the Law of their own
+<hi>wills,</hi> and the <hi>Sword.</hi>
+            </p>
+            <p>It is high time (Sirs) then to look about you, and vindicate the
+<hi>Lawes</hi> of the Land, the <hi>Priviledges</hi> and <hi>Freedom</hi> of Parliament, and the juſt Rights of the People, thus impiouſly invaded. Acquit your ſelves like men, and if you muſt periſh it will be your glory and <hi>Crowne</hi> in the midſt of <hi>calamity,</hi> that you ſuffer in defence of the <hi>Li<g ref="char:EOLhyphen"/>berties</hi> of your <hi>Country.</hi> Proceed to an happy Accommodation with his <hi>Majeſty:</hi> He hath granted more than ever the world ſuppoſed you would have demanded, then let not thoſe
+<hi>Differences</hi> which he by his <hi>Concesſions</hi> hath brought into ſo <hi>narrow a Compaſſe,</hi> hinder a <hi>Peace</hi> any longer, but meet him now at length with an honorable <hi>Complyance,</hi> and leave the
+<hi>ſucceſſe</hi> to <hi>God,</hi> who will <hi>ſcatter thoſe that delight in War;</hi> and to this end (how ſmall ſoever the meanes be at preſent, yet ere long) you ſhall have the <hi>hearts, hands,</hi> and
+<hi>Purſes</hi> of Thouſands to aſſiſt you. I am not ignorant, that your <hi>Debates</hi> and <hi>Reſolutions</hi> are extremely ſtagger'd by a pack of <hi>Sectaries,</hi> which have crept into the <hi>Houſe</hi> to that purpoſe by <hi>undue elections;</hi> and that you feare, if you ſhould declare againſt the <hi>deſigne</hi> of this <hi>Remonſtrance,</hi> they ſhould take this occaſion to <hi>purge</hi> you out of the
+<hi>Houſe,</hi> and make uſe of the ſame way of <hi>unjuſt elections,</hi> to put others in your Places: But how<g ref="char:EOLhyphen"/>ſoever, put it to the
+<hi>venture,</hi> and do your <hi>duty.</hi> As for me, I ſhould reckon it the greatest <hi>glory</hi> I could be born unto, to be accounted worthy to ſuffer in ſo noble a <hi>Cauſe;</hi> and ſince they are arrived to this height of <hi>Impiety,</hi> to tread all <hi>Authority</hi> under foot (as well yours as the <hi>King<g ref="char:punc">▪</g>s)</hi> do you but agree with his
+<hi>Majeſty,</hi> upon juſt and <hi>e<g ref="char:EOLhyphen"/>quall Termes,</hi> then (whatever I have been heretofore) I ſhall liſt my ſelfe henceforth <hi>For King and Parliament.</hi>
+            </p>
+            <closer>
+               <signed>Mercurius Pragmaticus.</signed>
+               <date>
+                  <hi>Novem.</hi> 27. 1648.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb n="1" facs="tcp:115262:3"/>
+            <head>A <hi>Plea</hi> for the <hi>King</hi> and <hi>Kingdom,</hi> by way of Anſwer to the late <hi>Remonſtrance</hi> of the
+<hi>Army.</hi>
+            </head>
+            <p>THe Contexture of this tedious <hi>Remonstrance</hi> is much like that of the <hi>new Government</hi> which they aime at, having neither forme nor faſhion in it, and is ſo repleniſhed with confuſed Repetitions, that it brings more trouble to recollect the ſcattered <hi>Fancies</hi> into ſome orderly Frame, than to blaſt them with a Confutation. No leſſe than 60. Pa<g ref="char:EOLhyphen"/>ges are ſpent in a <hi>Preamble,</hi> before they come to the things intended; and all to win the world <hi>(quorum magn apars capitur Ambagibus)</hi> with a world of ſmooth <hi>Pretences;</hi> the vanity whereof I ſhall indeavour to de<g ref="char:EOLhyphen"/>monſtrate in a few ſheetes, which they have wrap't up in ſo many, that when the <hi>Monſter</hi> appeares without diſguiſe, it may become abominable in the eyes of all good men.</p>
+            <p>In the firſt place they inſinuate their <hi>tender Regard to the Priviledges and freedom of Parliament, in not interpoſing in their Councells and determi<g ref="char:EOLhyphen"/>nations,</hi> &amp;c. For the falſhood of this, I ſhall give you two Inſtances of famous (or rather in famous) memory. The firſt is taken out of their <hi>Remonſtrance,</hi> dated <hi>June</hi> 23.
+1647. at <hi>S. Albans,</hi> wherein they threatned to march up againſt the Parliament, in caſe the 11. <hi>Members</hi> were not ſuſ<g ref="char:EOLhyphen"/>pended the
+<hi>Houſe</hi> by a ſhort certain day, and their deſires not granted.</p>
+            <p>The ſecond may be collected out of the prodigious carriage of the <hi>Ar<g ref="char:EOLhyphen"/>my</hi> and their <hi>Creatures</hi> in the <hi>Houſes,</hi> when the Ordinance was debated for nulling and making void all things whatſoever done in the abſence of the two <hi>Renegado Speakers,</hi> when they ran to the <hi>Army.</hi> This <hi>Ordinance</hi> was ſet forward by the
+<hi>Army-party,</hi> and had been debated five, or ſix ſeverall times, and ſtill rejected in the <hi>Negative;</hi> yet they brought it in play again ſtill, and not being able to prevail by reaſon they had recourſe to Menaces and <hi>Threats.</hi> Sollicitor S. <hi>Johns</hi> threatned that
+<hi>they muſt have recourſe to the power of the Sword; the longeſt ſword take all, ſince they were ingaged to live and die with the Army.</hi> Sir Arthur Haſlerige ſaid <hi>then, ſome heads muſt flie off, and he feared the Parliament of</hi> England <hi>would not ſave the Kingdom of</hi> England, <hi>ſo that they muſt look another way for ſafety. They could not ſatisfie the Army, but by declaring all void</hi> ab Initio; <hi>and the Lords were ſo far in<g ref="char:EOLhyphen"/>gaged, that no middle way would ſerve.</hi> And when it was anſwered, <hi>that this</hi> 
+               <pb n="2" facs="tcp:115262:4"/> 
+               <hi>was an Appeale from the Parliament to the Army,</hi> then the Threats were re-doubled by Sir
+<hi>John Evelyn Junior,</hi> Sir <hi>Harry Vane Junior, Prideaux, Gourdon,</hi> Sir <hi>Harry Mildmay, Scot, Holland,</hi> and divers others. When no<g ref="char:EOLhyphen"/>thing would doe, at length the <hi>Speaker</hi> pulled a Letter out of his pocket, together with the <hi>Remonſtrance</hi> from the Army, full of vilanous Language and Threats againſt thoſe <hi>Members</hi> that ſate while the two <hi>Speakers</hi> were in the <hi>Army;</hi> calling them <hi>pretended Members,</hi> charging them (in gene<g ref="char:EOLhyphen"/>rall) with <hi>Treaſon, Treachery,</hi> and <hi>Breach of Trust;</hi> And proteſted, that if they ſhould
+<hi>preſume to ſit before they had cleared themſelves, that they did not give their Aſſents to ſuch and ſuch Votes, they ſhould ſit at their perill, and be taken priſoners of Warr, and tryed at a Councell of Warr.</hi> Certainly, never any King of <hi>England</hi> ever offered ſo great a violence to the fundamentall priviledges of Parliament, as to deny them the liberty of voting <hi>yea,</hi> and <hi>no</hi> freely: And yet this very ſame <hi>Army</hi> hath the confidence to alledge their tender regard of the
+<hi>Priviledges</hi> and <hi>Freedom</hi> of Parliament.</p>
+            <p>And that the world may take notice, how they intend to behave them<g ref="char:EOLhyphen"/>ſelves toward the <hi>Houſes</hi> in time to come, in the very next
+<hi>Paragraph</hi> you may read a ſtrange kind of conſtruction of that old abuſed Maxim, <hi>Salus populi ſuprema Lex,</hi> which they ſay many have made uſe of in theſe times, but none with ſo much juſtice as themſelves; and of this they make their <hi>ſucceſſe</hi> the only Argument, in juſtification of their Rebellion againſt both <hi>King</hi> and <hi>Parliament,</hi> as if happy events were the only Touchſtones of lawfull enterprizes; and that by theſe God had given the verdict on their ſide.</p>
+            <q>
+               <l>(Careat ſucceſſibus opto,</l>
+               <l>Quiſquis ab eventu Facta not and a putat.)</l>
+            </q>
+            <p>And therefore they proceed to pronounce themſelves
+<hi>magiſterially</hi> to be the onely competent Judges of the <hi>ſafety of the People,</hi> which to be, is the inſeparable Prerogative of the ſupreme Magiſtrate (or Magiſtrates) only, in all Governments whatſoever; And in proſecution of their humor, they do as good as tell the
+<hi>Houſe,</hi> in caſe thoſe pretences of danger be not remedied and thoſe remedies which they remonſtrate not followed, <hi>they ſhall not feare to make ſuch Appeales to God</hi> (that is, their ſword) as
+<hi>formerly they have done.</hi> From whence we may collect theſe following tenets deſtructive to all <hi>Government.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> That the People (or as the caſe now ſtands, that part of the Peo<g ref="char:EOLhyphen"/>ple which are prevalent in Armes) are the true and ſole Judges of their owne ſafety.</p>
+            <p>
+               <hi>Secondly,</hi> That they may appeale to the <hi>Sword</hi> againſt the Authority of their Governers, in order, as they conceive, to the publique ſafety, which two <hi>Concluſions,</hi> if admitted, muſt needs open a <hi>Gap</hi> to perpetu<g ref="char:EOLhyphen"/>all <hi>Faction</hi> and <hi>Rebellion;</hi> foraſmuch as the People, who are ever floating, <pb n="3" facs="tcp:115262:4"/> and apt to find Fault, will upon ſuch a liberty, never be content and ſa<g ref="char:EOLhyphen"/>tisfied with their Governers.</p>
+            <p>Nevertheleſſe upon theſe <hi>Anarchicall</hi> Grounds, they proceed in the next place to tax the Houſe for quitting their Votes of
+<hi>non-Addreſſe</hi> unto his Majeſty, and admitting of a
+<hi>perſonall Treaty;</hi> and hereunto they ſub<g ref="char:EOLhyphen"/>joyne no leſſe than three notorious <hi>Fictions</hi> to ſtrengthen the Votes of
+<hi>Non-Addreſſe,</hi> and gain them a new Reputation to the prejudice of the <hi>Treaty, First,</hi> they ſteele their Fore-heads with this bold Aſſertion; that the Houſe was in a condition of <hi>Freedom, and not Acted beyond their own Judgements, nor by any Impulſion from the Army,</hi> when they paſſed thoſe <hi>Votes. Secondly,</hi> that before the paſſing of thoſe <hi>Votes,</hi> the <hi>People and Soldi<g ref="char:EOLhyphen"/>ery were full of diſcontents and diſtempers throughout the Kingdom; but that after the paſſing of them they were re-ſetled in good Order and diſcipline, and the whole Affaires of the Kingdom in an hopefull poſture for a Settlement.</hi> Thirdly, <hi>That when the Houſes recalled thoſe Votes and took Reſolutions for a Treaty, their Judgement was not with due, and former Freedom,</hi> &amp;c. To the firſt I an<g ref="char:EOLhyphen"/>ſwer, and ſhall make it evident, that the Parliament was acted beyond their free Judgments, and by Impulſion from the Army, when the 4. <hi>Votes</hi> of <hi>Non-Addreſſe</hi> were paſſed in either Houſe: For, the deſigne of theſe <hi>Votes</hi> was driven on firſt in the Army, Sir <hi>Harry Vane Junior,</hi> Sir <hi>John Evelyn</hi> of <hi>Wilts, Nath. Eines,</hi> and Soll. <hi>S. Johns</hi> having been imployed by the <hi>Independent Grandees,</hi> to joyne with a ſelect Committee of the <hi>Ar<g ref="char:EOLhyphen"/>my,</hi> to debate the meanes of procuring the paſſage of thoſe 4. <hi>Votes</hi> in the <hi>Houſe;</hi> which when they had contrived, they haſtned to put in execution at
+<hi>Weſtminſter,</hi> having a pat occaſion offered them on
+<hi>Monday</hi> January 3. when the King's Anſwer of deniall to the <hi>four Bills</hi> preſented to him in the Iſle of <hi>Wight,</hi> came to be debated in the Houſe of Commons: At which time Commiſſary
+<hi>Ireton,</hi> the wiſe pen-man of this <hi>Remonſtrance,</hi> made bold to ſpeak the ſence of the Army, under the notion of many thouſand god<g ref="char:EOLhyphen"/>ly men, who had ventured their lives to ſubdue their Enemies, and ſaid,
+<hi>The King had denyed ſafety unto his people by denying the foure Bills: That ſubjection to him was but in lieu of his protection to his People; which being denyed, they might well deny any more Subjection to him, and ſettle the King<g ref="char:EOLhyphen"/>dom without him: That it was now expected after ſo long patience they ſhould ſhew their Reſolution; and not deſert thoſe valiant men, who had ingaged for them beyond all poſſibility of Retreat, and would never forſake the Parliament, unleſſe the Parliament forſook them firſt.</hi> And what was the intent of this I pray you, but to deliver the ſence of the Army againſt the King? and to inſianute a cunning cloſe Threat, that if they did not joyn Iſſue with them, they ſhould be look't upon as Enemies?</p>
+            <p>But when divers exceptions were taken at this Speech of
+<hi>Ireton's,</hi> and the Debate drawing to an <hi>up-ſhot,</hi> his Father-in-law <hi>Cromwell</hi> be ought up the <pb n="4" facs="tcp:115262:5"/>
+               <hi>Reare</hi> in very furious La<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>guage; and to ſignifie, that the Gainſayers muſt expect more then words, he laid his hand upon his ſword, and ſtood in a threatning poſture, ſaying, <hi>It was now expected the Parliament ſhould defend and govern the Kingdom by their own power and reſolutions, and not teach the people any longer to expect ſafety and government from an obſtinate man, whoſe heart God had hardned: That thoſe men who had defended the Parliament from ſo many dangers with expence of their Bloud, would defend them herein with fi<g ref="char:EOLhyphen"/>delity and courage, againſt all oppoſition. Teach them not by neglecting your own and the Kingdomes ſafety (in which their own is involved) to think them<g ref="char:EOLhyphen"/>ſelves betrayed, and left hereafter to the rage and malice of an irreconcileable Enemy, whom they have ſubdued for your ſake; and therefore are likely to find his future government of them inſupportable, and fuller of revenge than Juſtice, leſt deſpaire teach them to ſeek their ſafety by ſome other meanes than by adhe<g ref="char:EOLhyphen"/>ring to you, who will not ſtick to your ſelves. And how deſtructive ſuch a Reſolu<g ref="char:EOLhyphen"/>tion in them will be to you all, I tremble to think, and leave you to judge.</hi> Upon the concluding of <hi>Oliver,</hi> the Queſtion was immediately put, and not a man daring to mutter, it was concluded, <hi>that no further Applications ſhould be made unto the King.</hi> The other 3. Votes followed of courſe, as depend<g ref="char:EOLhyphen"/>ing thereupon.</p>
+            <p>Now the grand difficulty was to make them paſſe with the
+<hi>Lords,</hi> they having very hotly debated againſt them, inſomuch that there were <hi>ten Lords to ten:</hi> But to turne the <hi>Scales,</hi> at the very inſtant, a Regiment of Foot and another of Horſe, came to garriſon
+<hi>White-Hall</hi> and the <hi>Newes,</hi> which frighted their
+<hi>Lordſhips</hi> to a quick condeſcention: So that now I leave the world to judge the falſhood of the <hi>Remonſtrance</hi> in this particular, it being cleare, that that the Houſes were acted beyond their <hi>free Judgement,</hi> and by <hi>Impulſion from the Army,</hi> in paſſing the Votes of <hi>Non-Addreſſe</hi> unto his <hi>Majesty:</hi> And the truth is, they have acknowledged among themſelves; That they rule by Power only, and that the Houſe is no longer theirs than they over-awe them; which is the very reaſon, why they appear now upon the very Cloſe of the Treaty with this high-flowne <hi>Remonſtrance.</hi>
+            </p>
+            <p>To the <hi>ſecond,</hi> whereas the <hi>Remonſtrance</hi> ſayes, that <hi>before the paſſing thoſe</hi> 4. <hi>Votes, the people were full of diſcontents and distempers, but after they were pasſed, the Kingdom was in a hopefull poſture of ſettlement,</hi> I anſwer; That though the people generally diſtaſted the Proceedings of the
+<hi>Gran<g ref="char:EOLhyphen"/>dees,</hi> upon the Impriſonment of their King; yet they were not ſo inraged, as to ruſh into Arms, till the paſſing theſe 4.
+<hi>Votes;</hi> which were ſo far from promoting a ſettlement, that they inflamed the minds of the whole <hi>Com<g ref="char:EOLhyphen"/>monalty</hi> with <hi>Revenge,</hi> and ſuſpicion what <hi>Form</hi> of <hi>Government</hi> the <hi>Gran<g ref="char:EOLhyphen"/>dees</hi> intended to erect, now they had laid by the <hi>King;</hi> and every mans mind preſaged a <hi>new War,</hi> which indeed the <hi>Independent Grandees</hi> were willing to have, to colour their keeping up this <hi>Army,</hi> and raiſing money <pb n="5" facs="tcp:115262:5"/> to maintain them. It is moreover, That the whole <hi>Kingdom</hi> was ſo far out of charity with the <hi>Grandees</hi> for thoſe four <hi>Votes,</hi> that every man, even among the <hi>moderate well-affected</hi> (as they call them) did deteſt the proceed<g ref="char:EOLhyphen"/>ings; inſomuch, that none would ſecond them by <hi>Petition,</hi> or otherwiſe, though they proceeded almoſt ſo far as to compel them: Witneſs the Deſigne of <hi>Prideaux</hi> to ingage the whole County of
+<hi>Sommerſet,</hi> but could prevail no further then with a few
+<hi>Sectaries</hi> of the Town of <hi>Taunton,</hi> to thank the Houſe for thoſe <hi>Votes</hi> by a <hi>Petition,</hi> which was ſeconded through the inouſtry of Serjeant <hi>Wilde,</hi> as he rode the <hi>Circuit,</hi> by the ſubſcription of a packt <hi>grand Jury</hi> for the County. Colonel
+<hi>Pureſoy</hi> was at the ſame work in <hi>Warwickſhire,</hi> and Sir
+<hi>Arthur Haſlerig</hi> about <hi>Newcaſtle;</hi> but all with as ſmall ſucceſs, as Sir <hi>Harry Mildmay</hi> had in the County of
+<hi>Eſſex:</hi> For, the people inſtead of countenancing the four
+<hi>Votes,</hi> began every where, openly to proteſt againſt them, and to turn their <hi>Petitions</hi> into a contrary ſtrain, for recalling the
+<hi>Votes,</hi> and appointing a <hi>Perſonal Treaty</hi> with <hi>His Majeſty;</hi> the rejecting of which <hi>Petitions,</hi> murthering ſome of the <hi>Petitioners</hi> (as the <hi>Surrey</hi> men) and diſ<g ref="char:EOLhyphen"/>countenancing the reſt, was the true cauſe of all the late <hi>Inſurrections:</hi> So that it appears evident (againſt the ſence of the <hi>Remonſtrance,)</hi> That the four <hi>Votes</hi> rather unſettled the Kingdom, then brought it into a hopeful poſture of ſettle<g ref="char:EOLhyphen"/>ment.</p>
+            <p>To the third Falſhood of the <hi>Romonſtrance;</hi> That when the <hi>Houſes recalled the four Votes, their judgment was not with due Freedom.</hi> I anſwer, That when the face of affairs changed, ſo that the
+<hi>Army</hi> could no longer over-aw the <hi>Houſe,</hi> then having liberty to <hi>Vote</hi> with <hi>Freedom,</hi> and according to their
+<hi>Conſciences,</hi> they immediatly recalled the <hi>Votes</hi> of
+<hi>Non-Addreſs,</hi> upon the <hi>Petitions</hi> of the City of
+<hi>London,</hi> and other <hi>Counties</hi> about; which were de<g ref="char:EOLhyphen"/>bated in the
+<hi>Houſes</hi> freely, being then releaſed from that terror wherein they were held formerly by the <hi>Army;</hi> as appears when they were firſt paſſed by the <hi>Lords,</hi> and communicated by them unto the
+<hi>Commons</hi> on <hi>Wedneſday</hi> the 16 of <hi>Auguſt,</hi> where they received a <hi>full</hi> and <hi>free Concurrence,</hi> with very little contradiction. Thus the <hi>falſhood</hi> of theſe three Particulars being cleared, all the ſuperſtructures of Diſcourſe upon them in this fi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt part of the
+<hi>Remon<g ref="char:EOLhyphen"/>ſtrance</hi> muſt fall to nothing.</p>
+            <p>Having caluminated the juſt and honorable proceedings of the
+<hi>Houſes,</hi> in recalling the Votes of <hi>Non-Addreſſe,</hi> and yielding to a <hi>Perſonal Treaty</hi> with His Majeſty: in the next place they inſinuate <hi>the great evil or danger of ſeek<g ref="char:EOLhyphen"/>ing to the King by Treaty, and of an Agreement or Accommodation with him, including his impunity, and reſtitution to his Freedom, Revenue, and Dignity;</hi> and all under pretence, that ſufficient proviſion is not made thereby for the <hi>publike Intereſt.</hi> Herein they tacitly condemne the <hi>Propoſitions</hi> of both <pb n="6" facs="tcp:115262:6"/> 
+               <hi>Houſes,</hi> as if in them they had not been carefull of the good and welfare of the People, and propou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d another way of their own, as the only meanes to preſerve the publike Intereſt of the <hi>Nation,</hi> which they ſay conſiſts in theſe Principall Heads,</p>
+            <p n="1">1. <hi>That for all matters of ſupreme Truſt, or concernment to the Safety of the whole, there be a ſupreme Councell, or Parliament.</hi>
+            </p>
+            <p n="2">2. <hi>That the power of making and repealing Lawes, and the finall power of Judgment in all things, without further Appeal, many reſt in that Councell, or Repreſentative Body of the People, and that it may not be in the will of the King, or any other particular Perſons, to oppoſe, or make void their determina<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <p>Theſe things they ſet down as the <hi>Epitome</hi> of the
+<hi>publike Intereſt,</hi> and the true Subject of the Conteſt betwixt the
+<hi>King</hi> and <hi>Parliament.</hi> But that a Supreme Councell ſo quallified, is no part of the <hi>publike Intereſt</hi> in this King<g ref="char:EOLhyphen"/>dom, I ſhall make cleare, when I come to handle thoſe particulars which they propound in the winding up of the <hi>Remonſtrance:</hi> Nor hath it been the Subject of the <hi>Conteſt</hi> betwixt <hi>King</hi> and
+<hi>Parliament;</hi> and therefore they cannot ground any juſt accuſation or charge upon them againſt the <hi>King,</hi> as they indeavour here to doe: For, the firſt <hi>Conteſt</hi> betwixt the King and Par<g ref="char:EOLhyphen"/>liament was about the poſſeſſion of the <hi>Militia,</hi> which they claimed to have in their hands for a time, under pretence of danger, <hi>&amp;c.</hi> Yet never proceeded ſo far as to queſtion the Kings <hi>negative voice</hi> in Parliament, but acknowledged in ſeverall Declarations; that their
+<hi>Ordinances</hi> are not binding without the <hi>Royall Aſſent,</hi> However afterwards they fell to practiſe the contrary, as the <hi>Breach</hi> grew wider betwixt them and His Majeſty. It being falſe then which they here ſuppoſe, <hi>viz.</hi> That the Kings <hi>negative voice</hi> hath been the Ground of the <hi>Conteſt</hi> in the late Wars; (for, the Houſes never ſo declared) all their Arguments following againſt the <hi>King,</hi> being founded upon a falſe <hi>Suppoſition,</hi> are utterly inconcluſive, though if their <hi>Suppoſition</hi> were true. I could not allow them as juſtifiable. But I ſhall not ſtand to prove that now, onely I ſhall trace them in their own way: For, they charge the <hi>King</hi> to have ſtretch<g ref="char:EOLhyphen"/>ed his <hi>negative voice</hi> ſo far, as to advance his own
+<hi>will and Intereſt onely in an unlimited power over the lives, liberties, and goods of the People.</hi> For this they urge the frequent diſſolving Parliaments; but if it were true, that the fre<g ref="char:EOLhyphen"/>quent diſſolution were acted on purpoſe to invade the <hi>Liberty of the Subject</hi> (as all the World knowes it was not, but was occaſioned by the petulancy of divers Subjects, who under the ſhelter of <hi>Parliamentary priviledge,</hi> indea<g ref="char:EOLhyphen"/>vored to eſtabliſh a <hi>Faction</hi> contrary to the received cuſtomes and policy, both of <hi>Church</hi> and <hi>State,</hi> as the event hath manifeſted;) yet what Inconvencie was crept into the Kingdom, through the diſcontinuing of Parliaments, for <pb n="7" facs="tcp:115262:6"/> which His Majeſty did not graat a Remedy in the beginning of this <hi>Parlia<g ref="char:EOLhyphen"/>ment?</hi> And did He not likewiſe to remove all occaſion of Jealouſie co<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cern<g ref="char:EOLhyphen"/>ing the like <hi>preſſures</hi> in time to come, give His full and free Conſent, for the calling of Parliaments hereafter every <hi>three yeares,</hi> whereby all grievances might have a certain <hi>Remedy?</hi> Nay. He proceeded ſo for, that to give Satis<g ref="char:EOLhyphen"/>faction, He granted that fatall Act of <hi>eternity</hi> to this Parliament, that there might not remain the leaſt ſhadow of <hi>Arbitrary power</hi> to Himſelf; and therfore it is apparent, that the Ground of the
+<hi>Conteſt</hi> betwix<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Him and the Houſes, could not be occaſioned by any deſigne (on His part) for the advancing of an unlimited and unlawful <hi>Prerogative,</hi> by making uſe of His <hi>negative voice,</hi> either to the diſſolution of this Parliament, or denying remedy to their <hi>Grie<g ref="char:EOLhyphen"/>vances:</hi> But rather, that it was occaſioned through a <hi>deſigne</hi> (on their part) after His Majeſty had granted ſo much, ſtill to invade more of His juſt
+<hi>Royall Rights</hi> and <hi>Prerogatives,</hi> (as the power of the
+<hi>Militia,</hi> without which He could not be a King, <hi>&amp;c.)</hi> whereby He was given clearly to underſtand, that they intended to leave Him nothing at all, before they would be ſatisfied.</p>
+            <p>Thus having cleared His Maj<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſty from occaſioning the former <hi>War,</hi> I ſhall examine their <hi>Charge</hi> againſt Him concerning the later; <hi>Which</hi> (ſay they) <hi>was raiſed by Commiſſions from Himſelf and the Prince, to force the Parliament, in a</hi> perſonal Treaty, <hi>to ſeek Peace at his will, and that to this end the</hi> Scots <hi>laſt coming in was procured.</hi> The malicious vanity of this is very evident, ſeeing He had neither <hi>Scale,</hi> nor opportunity to grant <hi>Commiſſions,</hi> all men being barr'd of acceſſe to His Majeſty, and he utterly ignorant of Affaires, and ſo kept at that time, when the <hi>Scotiſh</hi> Ingagement was firſt ſet on foot, and the general diſcontents of the Kingdom had made them break forth into <hi>Inſur<g ref="char:EOLhyphen"/>rections.</hi> And for what was done by the <hi>Prince,</hi> that cannot be charged upon His Majeſty, his Highneſſe having acted therein for his own <hi>Intereſt,</hi> as <hi>Heir apparent</hi> of the <hi>Crown,</hi> which was invaded and rifled by ſacrilegious hands; and as a <hi>dutifull Son,</hi> for the reſtitution of his <hi>Royall Father</hi> from a barbarous Impriſonment: By which it is manifeſt, that His Majeſty was wholly <hi>paſ<g ref="char:EOLhyphen"/>ſive,</hi> and not at all
+<hi>active,</hi> in relation to the laſt War, and ſo this <hi>Charge</hi> is fully refuted.</p>
+            <p>After this, they charge His Majeſty with refuſing the <hi>four Bills</hi> preſented to Him at <hi>Carisbrooke</hi> Caſtle, upon no other conſideration, <hi>but meer Intereſt of will and power alone without a Parliament.</hi> To refute this, I ſhall prove, that the <hi>Bills</hi> were rejected meerly to preſerve the Intereſt of both King, Parliament, and People, according to the <hi>Law.</hi> For, as being deſtruct<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve to the <hi>Legal Intereſt</hi> of the <hi>King,</hi> They were called the <hi>four dethroning Bills:</hi> This will appear by that <hi>Bill</hi> for the power of the
+<hi>Militia</hi> to be in their hands <hi>for</hi> 20. <hi>yeares,</hi> and after the ſaid term of 20. yeares, it prohibited the <hi>King,</hi>
+               <pb n="8" facs="tcp:115262:7"/> or His Heirs, to exerciſe the <hi>Militia,</hi> without the conſent of the Lords and Commons; but they only to Act, and all
+<hi>Bills</hi> drawn up by them for levying and raiſing of Forces, to have the Force of Acts of Parliament, <hi>without the Royall Aſſent:</hi> Which
+<hi>Bill</hi> (if it had been granted) as it would have taken away the
+<hi>Kings negative voice</hi> (inveſted in Him by Law) and made an
+<hi>Ordi<g ref="char:EOLhyphen"/>nance</hi> equall to an <hi>Act of Parliament;</hi> ſo it would have ſetled an <hi>Arbitrary power</hi> in the <hi>Lords and Commons</hi> over the Eſtates and perſons of their Fellow-Subjects, and have cauſed the ſame miſeries to return upon us, which happen<g ref="char:EOLhyphen"/>ed in the dayes of our Fore-fathers under <hi>Henry the third,</hi> when the 24. <hi>Con<g ref="char:EOLhyphen"/>ſervators</hi> of the Peace were called <hi>totidem Tyranni,</hi> ſo many Tyrants: For, what might not our <hi>Grandees</hi> have done, when the <hi>Sword</hi> had been theirs by Act of Parliament? Beſides, if the King had given them His <hi>Sword,</hi> they might have taken all the reſt of the <hi>Propoſitions</hi> demanded, without a Treaty.</p>
+            <p>Nor had the granting the <hi>four Bills</hi> been deſtructive onely to the legall In<g ref="char:EOLhyphen"/>tereſt of the King, and the liberty of the People, but alſo to the Freedom of <hi>Parliament;</hi> one of the <hi>four</hi> being for <hi>Adjournment of both Houſes to any other place beſides Weſtminster, &amp;c.</hi> Which was a Plot of the Grandee-Faction in the
+<hi>Houſes</hi> and <hi>Army,</hi> to gain power of Adjourning the
+<hi>Houſes</hi> from time to time, to, or near the <hi>Head Quarters</hi> of the Army: where thoſe <hi>Members</hi> that would refuſe to be of their Party, ſhould neither ſit with ac<g ref="char:EOLhyphen"/>commodation, nor ſafety, and ſo be ſhaken off at laſt, which had been a new way of <hi>purging the Houſes;</hi> and ſo His Majeſties paſſing thoſe <hi>four Bills</hi> would have been deſtructive likewiſe to the Intereſt and Freedom of
+<hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi> Whereby it appears, that His Majeſty, in rejecting thoſe <hi>Bills,</hi> was not ſwayed with any conſideration of eſtabliſhing His own <hi>will and power,</hi> above or <hi>without a Parliament,</hi> but with a tender reſpect onely to His own <hi>Legal Rights,</hi> the <hi>Priviledges</hi> and <hi>Freedom</hi> of
+<hi>Parliament,</hi> and the <hi>Liberties</hi> of the <hi>People.</hi>
+            </p>
+            <p>Having hitherto manifeſted the <hi>vanity</hi> of all their
+<hi>Suppoſitions;</hi> and in par<g ref="char:EOLhyphen"/>ticular, thoſe by way of <hi>Charge</hi> againſt His Majeſty, I ſhall in the next place examine their
+<hi>Inferences</hi> againſt Him, which being raiſed upon ſuch <hi>ſandy Grounds,</hi> cannot ſtand: For, taking all for granted which they ſay, they firſt affirm, That <hi>there can be no juſt ground of a Treaty, or accommodation with the King:</hi> Firſt, becauſe <hi>by perverting the Truſt repoſed in him, to the hurt and prejudice of the Generality, and indeavouring to eſtabliſh himſelf in a tyrannical power, he hath forfeited all that truſt and power, and doth ſet the people free to take their beſt Advantage, and (if he fall within their power) to proceed in Judgment againſt him.</hi> Secondly, <hi>Becauſe he ingaged to uphold his will and Intereſt, againſt the Supreme Councel of the Kingdom, muſt needs be the Author of an unjuſt War, and therein guilty of all the blood spilt thereby, and of all the</hi> 
+               <pb n="9" facs="tcp:115262:7"/> 
+               <hi>evils conſequent, or concomitant thereunto, and likewiſe of the higheſt Treaſon.</hi> For the verity of theſe things, they refer us to what hath been before ſpoken; and ſo muſt I the Intelligent <hi>Reader</hi> likewiſe, where he ſhall finde how cauſe<g ref="char:EOLhyphen"/>leſſe theſe unworthy <hi>Slanders</hi> are againſt
+<hi>His Majeſty,</hi> under preſence where<g ref="char:EOLhyphen"/>of they condemne as unjuſt, any accommodation with him by <hi>Treaty.</hi>
+            </p>
+            <p>And therefore it is, that their malice proceeds further, even to the bringing of his Sacred Perſon to a <hi>publike Tryal,</hi> and execution,
+<hi>without which</hi> (they ſay) <hi>the publike Juſtice of the Kingdom cannot be ſatisfied, the Blood and Rapine, &amp;c. expiated, nor the wrath of God appeaſed.</hi> Never was ſuch damnable doctrine vented before in the World: For, the Perſons of <hi>Soveraign Princes</hi> have ever been held ſacred (in reſpect of their immediate Authority under <hi>God)</hi> even among the moſt barbarous <hi>Nations;</hi> and though in many King<g ref="char:EOLhyphen"/>doms they have been regulated by force of <hi>Arms,</hi> and ſometimes (for the ſecurity of the <hi>grand Rebels) depoſed,</hi> and afterward privately murthered; yet in no <hi>Hiſtory</hi> can we finde a <hi>Parallel</hi> for this, that ever the rage of Rebels extended ſo far, as to bring their Soveraigne Lords to <hi>publike tryal</hi> and <hi>exe<g ref="char:EOLhyphen"/>cution,</hi> it being contrary to <hi>the law of Nature,</hi> the <hi>Cuſtome of Nations,</hi> and the <hi>ſacred Scriptures.</hi> Put caſe the hand of <hi>Heaven</hi> ſhould give them and us ſo far over, as to permit this; What <hi>Court</hi> ſhall their King be tryed in? who ſhall be his <hi>Peeres?</hi> what Form of <hi>Proceſſe</hi> ſhall be made? who ſhall give <hi>Sentence?</hi> what eyes dare be ſo impious to behold the <hi>execution?</hi> and what
+<hi>Arm</hi> be ſtretcht out to give the <hi>ſtroke</hi> againſt the
+<hi>Lords Anointed,</hi> and ſhall not wither like that of <hi>Jeroboam,</hi> when he lifted it up againſt an <hi>Anointed Prophet?</hi>
+            </p>
+            <p>But that they might not ſeem to indeavour this without
+<hi>Precedent,</hi> they ſay, the ſame Offences which they pretend to be in our King, <hi>have been judged capital in ſeveral of his Predeceſſors, from whom he claims;</hi> which is very falſe, not one of our Princes having ever been brought to <hi>publike Tryal,</hi> nor put to death, for any offence whatſoever: The onely ſad <hi>examples</hi> of <hi>unfor<g ref="char:EOLhyphen"/>tunate Royalty,</hi> were <hi>Edward</hi> the ſecond, and <hi>Richard</hi> the ſecond; yet neither of theſe proceeded againſt capitally, though they
+<hi>Articled</hi> againſt the latter; but both of them being (to the diſhonor of our Nation) <hi>depoſed,</hi> were after<g ref="char:EOLhyphen"/>wards cruelly murthered in private: The firſt, not without the inſtigation or conſent of a <hi>faithleſſe wife,</hi> to make room in her Bed for an
+<hi>Adulterer;</hi> the other to ſecure the Ambition of a <hi>Kinſman,</hi> which had uſurped the Crown by the name of <hi>Henry</hi> the fourth; ſo that neither of theſe can afford a Patern to theſe Times, for any capital Proceeding againſt their <hi>Lord</hi> and <hi>Soveraign:</hi> But if it pleaſe the <hi>Tirrels</hi> and the <hi>Gourneys</hi> of our Age, they may draw hence a patern of <hi>private parricide</hi> (as it is to be feared they will, inſtead of publ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke) and finiſh that work, which their dear <hi>Rolph</hi> had brought to ſo near a point of execution.</p>
+            <p>
+               <pb n="10" facs="tcp:115262:8"/> And leſt they ſhould want a plauſible Ground for their bloody Intentions, being conſcious to themſelves of their own weak Proofs of Guilt in <hi>His Ma<g ref="char:EOLhyphen"/>jeſty,</hi> the
+<hi>Remonſtrance</hi> inſinuates further unto the world, as if <hi>His Majeſty were guilty of all the Blood by his own confeſſion;</hi> and for this they urge the <hi>Preamble</hi> of the firſt <hi>Propoſition,</hi> which they ſay, He hath paſſed in juſtifica<g ref="char:EOLhyphen"/>tion of the Grounds of the War on the <hi>Parliaments</hi> part, and the condemna<g ref="char:EOLhyphen"/>tion of His own, though all the World knowes (and themſelves confeſſe alſo in this
+<hi>Remonſtrance)</hi> that it was paſſed but <hi>conditionally,</hi> in order to a <hi>full A<g ref="char:EOLhyphen"/>greement,</hi> and out of neceſſity, becauſe the
+<hi>Treaty</hi> would not be proceeded in without it: And yet they raile againſt it alſo, as the greateſt <hi>Hypocriſie</hi> that ever was before <hi>God</hi> and the <hi>World;</hi> and <hi>becauſe this confeſſion</hi> (they ſay) <hi>pro<g ref="char:EOLhyphen"/>ceeded not out of inward Remorſe and Conviction, it muſt ſtand for a ground of condemnation againſt him.</hi> Thus you ſee, ſince they have kennel'd their <hi>King,</hi> and uſed him like a <hi>Dog,</hi> it <hi>is an eaſie matter to finde a ſtaffe to beat him.</hi>
+            </p>
+            <p>Now the <hi>Remonſtrance</hi> having hitherto, upon idle
+<hi>Suppoſitions</hi> and <hi>Slanders</hi> againſt their <hi>King,</hi> precended that an <hi>Accommodation</hi> with Him by <hi>Treaty,</hi> cannot be juſt or good; in the next place, they pretend that it cannot be <hi>ſafe, in regard it hath not been uſual to reſtore Princes when they have been once ſub<g ref="char:EOLhyphen"/>dued by their Subjects, in the proſecution of their Liberties.</hi> And in this <hi>Aſſer<g ref="char:EOLhyphen"/>tion</hi> they are ſo confident;
+<hi>that they challenge all Story for an Inſtance to the contrary.</hi> This is a ſtrange peremptory <hi>challenge,</hi> conſidering that nothing is more obvious in <hi>Hiſtory</hi> then <hi>Examples</hi> of this Nature. Not need we go any further for a Teſtimony then our own; witneſſe the
+<hi>Feuds</hi> betwixt King <hi>John</hi> and the <hi>Barons,</hi> and alſo betwixt his ſon, <hi>Henry</hi> the third and them, who having vindicate their Liberties (as they pretended) and reduced <hi>Henry</hi> within their power, and ſometime under reſtraint, and regulated him for divers yeares, yet (nevertheleſſe) at length he was reſtored to his Crowne and Dignity. How many <hi>Inſtances</hi> could I collect elſe where I But I need not
+<hi>light a Candle to the Sun,</hi> nor would I willingly to the
+<hi>Devil;</hi> for I ſuppoſe the <hi>Penner</hi> of the
+<hi>Remonstrance</hi> could not but ſee, unleſſe his memory were obſcured with too great a <hi>Cloud of Witneſſes.</hi>
+            </p>
+            <p>Next, they think (they ſay) an <hi>Agreement</hi> with the
+<hi>King</hi> by <hi>Treaty</hi> can<g ref="char:EOLhyphen"/>not be <hi>ſafe, becauſe it is the Cuſtome of Princes, when they are over thrown by Force of their Subjects, uſually to beſtow and yield the Things contended for, when they can no longer hold them, and be take themſelves by Fraud, to recover them afterward, and be revenged on thoſe that oppoſed them.</hi> So that you ſee they are led by <hi>Machiavels</hi> Rule, <hi>Never to truſt that Prince whom they have once injured,</hi> and conclude with <hi>Catiline</hi> in the
+<hi>Poet,</hi> that
+<q>
+                  <l>The Ills which They have done cannot be ſafe,</l>
+                  <l>But by attempting greater—</l>
+               </q>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:115262:8"/> Becauſe they have provoked their King<g ref="char:punc">▪</g> is counted Reaſon ſufficient to de<g ref="char:EOLhyphen"/>ſtroy Him, rather then hazard their guilty necks under His Government. When men are once perſwaded thus, they are paſt recovery, and betray themſelves to be moſt <hi>implacable Traytors,</hi> and that they have a <hi>never dying worme</hi> in the
+<hi>Cheſt,</hi> which <hi>gnawes</hi> their <hi>Conſciences</hi> with the Remembrance of their <hi>Treaſon.</hi> And the puniſhment due to it being perpetually before their eyes, their only Refuge (in order to their own
+<hi>ſecurity)</hi> is to ſcandalize the <hi>Prince,</hi> as one not to be truſted, a violater of <hi>Faith, Oaths, Promiſes,</hi> and
+<hi>Protestations,</hi> in hope to palliate their villainies, by indeavouring to render Him odious, and ſo preſerve their own Reputation with the People; But if we do but ſcand the Proceedings of the Abbettors of this
+<hi>Remonſtrance,</hi> ſince their <hi>Faction</hi> came in power, the World cannot produce greater or more odious Examples of <hi>Hypocriſie, Treachery,</hi> and <hi>fained Proteſtations,</hi> then they have manifeſted by their <hi>Breach of Faith,</hi> and <hi>Promiſe</hi> with the
+<hi>King</hi> and <hi>Kingdom,</hi> as I ſhall prove in due place by and by.</p>
+            <p>Another <hi>Argument</hi> of theirs, why an <hi>Agreement</hi> now cannot be ſafe, is. <hi>The Facility of a Prince's finding occaſion and quarrel after ſuch an Agreement, to make a Breach,</hi> when he
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Advantage: And this they fear the <hi>King</hi> may eaſily do for ſeveral <hi>Reaſons,</hi> which I ſhall but touch, becauſe I muſt be brief: Firſt, becauſe the King is conceived to be in priſon ſtill (at leaſt not ſo free as he ought to be) during the <hi>Treaty:</hi> it being ſo expreſſed by the
+<hi>Prince,</hi> in his <hi>Declaration</hi> in Anſwer to the Earl of
+<hi>Warwick</hi>'s Summons, and ſo nothing can be concluded now, but may (upon that pretence) be broken hereafter. Beſides, they ſay, <hi>The Inlargement now afforded the King (with the pettit State added) is but a Mock-liberty, and Counterfeit of State, onely to ſet him up in a colourable poſture to Treat, but not being free from Force, be cannot be ſo free in what he grants, as to render it oblieging when granted.</hi> Where take notice of the deſperate <hi>Hypocriſie</hi> and <hi>cunning</hi> of theſe
+<hi>Followes,</hi> that they ſhould declaime againſt Force, as rendring the
+<hi>Treaty</hi> in vaine, when themſelves have put this <hi>Force</hi> upon it; ſo that it is evident, That all thoſe <hi>additional Forces</hi> lately joyned to the ordinary <hi>Guards</hi> of the <hi>Iland,</hi> were ſent thither unpurpoſe to raiſe a <hi>prejudice</hi> upon the <hi>Treaty,</hi> that ſo they might have ſome plauſible <hi>Pretence</hi> to except againſt an <hi>Agreement</hi> by it. Secondly, <hi>Becauſe if the King comes in with the Reputation of having long ſought Peace, by a Perſonal Treaty, he will be looked upon as the Repairer of Broaches, the Restorer of Trade, Peace, and Plenty; and if the Army ſhould keep up (as it must) to be maintained by Taxes, then the Houſes and they would be look<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed on as Oppr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſors, and ſo the Jealouſies and Diſcontents of the People be raiſed and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> against them, and make them apt to joyn Iſſue</hi> 
+               <pb n="12" facs="tcp:115262:9"/> 
+               <hi>with the Kings Intereſt again, againſt the Publike.</hi> Let the World take notice of this ſtrange way of Arguing. Becauſe the King is like to be hugg'd and beloved by his People, therefore they cannot truſt Him, but fear by His <hi>Intereſt</hi> in their Afflictions, they may be called to Accompt for all their Doings. Obſerve likewiſe, that they make it their <hi>Intereſt,</hi> to keep their King in priſon, the Kingdom out of <hi>Settlement,</hi> and the People in perpetual <hi>Taxes</hi> and <hi>Payments,</hi> to ſupport theſe their
+<hi>Taskmaſters,</hi> in their new eſtabliſhed <hi>Tyranny,</hi> in oppoſition to <hi>His Majeſty:</hi> So that the People of <hi>England,</hi> ſo long as they have no <hi>King,</hi> ſhall have neither <hi>Trading, Peace,</hi> nor <hi>Plenty.</hi>
+            </p>
+            <p>Thirdly, they inſinuate, how eaſie it is, not onely for a
+<hi>Prince</hi> to make a <hi>Breach</hi> to the prejudice of the <hi>publike Intereſt;</hi> but alſo the hazard of thoſe that ingaged for it againſt Him, by making uſe of the Peoples Affections after an <hi>Accommodation:</hi> For, they ſay, 'tis poſſible, the People <hi>may yield them up a ſacrifice, to appeaſe the King and his inraged Party.</hi> Here indeed the
+<hi>ſhoe wrings Them,</hi> and the Curſe of <hi>Cain</hi> purſues Them, ſup<g ref="char:EOLhyphen"/>poſing their <hi>Iniquities are greater then can be forgiven,</hi> and being of the ſame Faith with the <hi>Italian</hi> Atheiſt, that
+<hi>Injuries done to Princes may ſleep a while in their m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mories, but revive again, ſooner or later, as they finde an Opportunity to Revenge Them.</hi> Some Examples there are indeed of this Nature, but very few among the Princes of this Nation. The moſt no<g ref="char:EOLhyphen"/>torious <hi>Rebellion</hi> (next to this) that ever was in our <hi>Iland,</hi> happened againſt <hi>Henry</hi> the third, whoſe ſufferings were <hi>parallel</hi> to thoſe of King <hi>CHARLES</hi> in every point. He was bandied againſt in Parliament, driven thence, forced to Surrender the <hi>Royal Authority</hi> into the hands of twenty four Perſons, taken Priſoner, and carried up and down in an <hi>Army,</hi> after<g ref="char:EOLhyphen"/>ward was confined cloſe upon the very ſame <hi>Pretences,</hi> and ſo continued, till the People being tired out by the new <hi>Tyrants</hi> in Arms, and
+<hi>Taxes,</hi> he recovered their Affections, and His Crown both together. And now when the chief Ring-leaders expected nothing but Revenge from their abuſed <hi>Prince,</hi> He pardoned thoſe lives which were forfeited to His Mercy, not ſo much as one man of them being executed, but had a general
+<hi>Act of oblivion,</hi> and liberty to ſue out their Pardons upon very moderate Fines; of which in<g ref="char:EOLhyphen"/>comparable piece of Clemency, that ancient Record, called <hi>Dictum de Kenelworth,</hi> remains a <hi>Monument</hi> to this day. And though the <hi>Beateſeus</hi> of our Age (being conſcious of their heinous guilt) might hope as little for par<g ref="char:EOLhyphen"/>don, as thoſe their <hi>Elder Brethren;</hi> yet I am confident, were our <hi>King</hi> re<g ref="char:EOLhyphen"/>ſtored to His priſtine power, they ſhould all of them (the worſe of them even the very
+<hi>Cromwelites</hi> among them) taſte of the ſame <hi>Bounty</hi> and
+<hi>Mercy:</hi> For, <pb facs="tcp:115262:9"/> look upon him impartially in all the Paſſages of his life, and you may diſmiſſe him with a
+<q>Quo nihil in terris clementius aſpicit aether,</q> even with this <hi>Character,</hi> that the world cannot produce a more rare patern of piety, patience, and humanity.</p>
+            <p>But ſuppoſe, that we grant all they pretend to; That King's are ſuch faithleſſe Creatures, as they would make them; and that our
+<hi>King</hi> intended to make a <hi>Breach</hi> hereafter, and to recover that by <hi>Fraud,</hi> which he loſt by <hi>Force,</hi> and to be revenged, &amp;c. yet what ground of Iealouſie will be left, when their ſafety is ſo fairely provided for in the <hi>Propoſitions</hi> of both
+<hi>Houſes?</hi> For, if there be an <hi>Agreement</hi> upon them, his
+<hi>Mai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſty</hi> (it is apparent to all the world) muſt return ſo naked, and deveſted of all power, and with his hands ſo tyed behind him, that he will remaine no more but a <hi>Cipher</hi> of <hi>Kingly power,</hi> not able to help himſelf or friends, and become far leſſe than <hi>Buchanan's</hi> King, or a Duke of
+<hi>Venice.</hi> He will not have ſo much as a <hi>voice</hi> in the
+<hi>Senate,</hi> nor an Office in the <hi>Common-wealth,</hi> nor ſo much Power left as the meaneſt <hi>petty Conſtable,</hi> further than his
+<hi>Guardians</hi> ſhall be pleaſed to indulge him, his <hi>Perſon,</hi> and <hi>regall Authority</hi> being wholly ſurrendred up to them in
+<hi>Wardſhip.</hi> Hence then we may juſtly conclude againſt the ſence of the <hi>Remonſtrance;</hi> that were the <hi>King</hi> led by principles of <hi>Falſhood</hi> and <hi>Revenge<g ref="char:punc">▪</g>
+               </hi> yet being ſo bound up in point of power by the <hi>Propoſitions,</hi> it will be ſafe as well as iuſt for the <hi>Houſes,</hi> to make an <hi>Agreement</hi> with him by the
+<hi>Treaty.</hi> I am ſure it muſt be done one time or another, why then not now? an <hi>Accommodation</hi> with the <hi>King</hi> being the only
+<hi>Baſis</hi> of a ſettlement in the <hi>Nation,</hi> except the
+<hi>Houſes</hi> have ſo little courage as to comply with our
+<hi>Remonſtrants,</hi> and let it continue no longer a <hi>Kingdome,</hi> but change the whole Frame of <hi>Government,</hi> and turn all
+<hi>Topſi-turvy.</hi>
+            </p>
+            <p>A fourth <hi>Argument</hi> (founded as the reſt are upon matter of <hi>Jealou<g ref="char:EOLhyphen"/>ſie,</hi> not <hi>Equity)</hi> which they make uſe of unto the <hi>Houſes,</hi> againſt an <hi>A<g ref="char:EOLhyphen"/>greement</hi> with the <hi>King</hi> by <hi>Treaty,</hi> is taken from the <hi>Diviſions</hi> of the
+<hi>Parliamentary</hi> Party, and the <hi>Jealouſies</hi> they have of each other; alled<g ref="char:EOLhyphen"/>ging, that <hi>if the King were returned, it is more than probable; That each Party would be apt to ſtrive, which ſhould moſt and firſt comply with him.</hi> And left this <hi>courſe</hi> ſhould be objected againſt themſelves<g ref="char:punc">▪</g> as having taken it formerly for their own Advantage, when they had the <hi>King</hi> with them in the <hi>Army,</hi> they in the next place excuſe it thus, and ſay firſt; <hi>That they did not ſeek to the King, but were ſought unto by him, and were drawn into ſome negative complyances; only for prevention of miſchiefe</hi> 
+               <pb facs="tcp:115262:10"/>
+               <hi>to the publique, but ſtill profeſtly refuſed any thing of Coniunction with him or his:</hi> Secondly, <hi>That all their Declarations at that time were but Hypothe<g ref="char:EOLhyphen"/>ticall, ana with carefull Caution for the publique Intereſt:</hi> Thirdly, <hi>That they aimed not at the ſtrengthning of themſelves, by their then preiending for the King:</hi> The Falſhood of all which I ſhall clearely demonſtrate to their everlaſting Infamy, and give you ſome briefe <hi>Evidences</hi> of their <hi>double dealing,</hi> and how that they profeſſed abſolutely to cloſe with the <hi>legall Intereſt</hi> of his <hi>Maieſty.</hi>
+            </p>
+            <p>As for their publique profeſſions in their
+<hi>Declarations</hi> and <hi>Propoſalls,</hi> They are ſo notoriouſly known unto the world, that J need not men<g ref="char:EOLhyphen"/>tion them; But their Private hypocriticall <hi>Trucking</hi> with his <hi>Maieſty</hi> will be the only
+<hi>Touchſtone</hi> to try them by. And becauſe their Reſolu<g ref="char:EOLhyphen"/>tions pretended then for his <hi>Maieſty</hi> were as high as theſe are now againſt him, I ſhall be very punctuall to ſatisfie all men of the Truth, That the world may know what fine <hi>white Devills</hi> our <hi>new Saints</hi> are, and abhor their <hi>Hypocrifie.</hi> But before I produce my
+<hi>Evidences,</hi> I muſt declare whence I had them; even from Major
+<hi>Huntington, Cromwell's</hi> own Major, a partaker formerly of his Secrets, and ſo intimate, that <hi>Oliver</hi> was pleaſed to call him
+<hi>Miſtreſſe,</hi> and was imployed as a <hi>Meſſenger</hi> betwixt the <hi>King,</hi> and him, and <hi>Ireton.</hi>
+            </p>
+            <p>That their private <hi>Truckings</hi> with the <hi>King</hi> were not <hi>Hypotheticall,</hi> but pretended abſolute for his
+<hi>Intereſt,</hi> and of their own ſeeking, is manifeſt by what paſſed at <hi>Caverſham,</hi> where the <hi>King</hi> was continu<g ref="char:EOLhyphen"/>ally ſollicited by <hi>Meſſengers</hi> from <hi>Cromwell,</hi> and
+<hi>Ireton,</hi> proffering any thing his Maieſty ſhould deſire, as
+<hi>Revenues, Chaplins, Wife, Children, Servants</hi> of his owne,
+<hi>viſitation</hi> of Friends, acceſſe of <hi>Letters;</hi> and by
+<hi>Ireton</hi> himſelf (who pleads ſo cruelly againſt him in this bloody
+<hi>Re<g ref="char:EOLhyphen"/>monſtrance)</hi> that his <hi>Negative voice</hi> ſhould not be medled with all, for that he had convinced thoſe that reaſoned againſt it at the <hi>Generall Councell</hi> of the Army: And all this they would doe, that his <hi>Maieſty</hi> might the better ſee into all their Actions, and know their <hi>Principles,</hi> which lead them to give him all thoſe things
+<hi>out of Conſcience;</hi> For that they were not a people hating his perſon, on <hi>Monarchicall</hi> govern<g ref="char:EOLhyphen"/>ment, but that they did like it as the beſt, and that by this <hi>King,</hi> ſaying alſo, that they held it a very unreaſonable thing, for the Parliament to abridge him of them, often promiſing, <hi>that if his Maieſty would ſit ſtill, and not Act againſt them,</hi> they would in the firſt place reſtore him to all theſe, and make him the <hi>moſt glorious Prince in Chriſtendome;</hi> and that for this end they were drawing up <hi>Propoſalls;</hi> which if any power ſhould oppoſe, and there were but <hi>ſix men</hi> in the Kingdom that would <pb facs="tcp:115262:10"/> ſtand for them, <hi>Ireton</hi> ſaid, himſelf would make the <hi>ſeventh</hi> to iuſtifie and make them good.</p>
+            <p>His Maieſty being removed to <hi>Wooborne,</hi> the
+<hi>Propoſalls</hi> were ſent to him by Maior <hi>Huntington,</hi> at which time the King ſaid at firſt, he would not Treat upon them, but afterwards yielded and then <hi>Ireton, Rainsborough, Hammond,</hi> and <hi>Rich</hi> attended the King at <hi>Wooborne,</hi> debating the whole buſineſſe with him upon the <hi>Propoſalls;</hi> upon which debate, many of the moſt materi<g ref="char:EOLhyphen"/>all things which the <hi>King</hi> diſliked were ſtruck out, and many other things much abated by <hi>Promiſes,</hi> whereupon his
+<hi>Maieſty</hi> was pretty well ſatisfied. Afterward, his <hi>Maiesty</hi> being remo<g ref="char:EOLhyphen"/>ved to <hi>Stoke,</hi> told Maior <hi>Huntington</hi> he feared an
+<hi>Ingagement</hi> between the <hi>Army</hi> and <hi>City,</hi> and bade him goe tell <hi>Ireton,</hi> that he would wholly throw himſelf upon them, and truſt them for a ſettlement of the Kingdom. which Meſſage being de<g ref="char:EOLhyphen"/>livered by Maior <hi>Huntington</hi> to <hi>Ireton</hi> at
+<hi>Colebrooke,</hi> he ſeemed to receive with ioy, ſaying, <hi>That they ſhould be the veryeſt Knaves that lived, if in every thing they made not good what ever they had promiſed, becauſe the King, by his not declaring againſt them, had given them great Advantage againſt their Adverſaries.</hi> But who I pray you were theſe <hi>Adverſaries?</hi> Even the <hi>Presby<g ref="char:EOLhyphen"/>terian Party.</hi> By this then we may iudge them out of their own mouths; That they had no other end by their then pretend<g ref="char:EOLhyphen"/>ing for the King, but to ſtrengthen themſelves againſt the <hi>Pres<g ref="char:EOLhyphen"/>byterians,</hi> to ſuppreſſe their <hi>Faction,</hi> and advance their own<hi>:</hi> So that <hi>Iretons</hi> own words will witneſſe in this <hi>Particular,</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>Falſhood</hi> of this his <hi>Remonſtrance.</hi>
+            </p>
+            <p>When the <hi>Army</hi> at length began to falter in their proceed<g ref="char:EOLhyphen"/>ings, and the <hi>King</hi> feared, they intended not to make good what they had promiſed, he ſent Major <hi>Huntington</hi> to <hi>Crom<g ref="char:EOLhyphen"/>well</hi> to tell him he was unſatisfied with the proceedings of the <hi>Army,</hi> becauſe he underſtood that himſelf and <hi>Ireton</hi> agreed with the
+<hi>houſe</hi> in ſome late <hi>Votes</hi> that oppoſed the
+<hi>Propoſalls</hi> of the <hi>Army.</hi> It was replyed, that they would not have his <pb facs="tcp:115262:11"/> 
+               <hi>Maieſty</hi> miſtruſt them, for that ſince the Houſe would goe to high, they only concurred with them, that their unreaſonable<g ref="char:EOLhyphen"/>neſſe might the better appeare to the Kingdom. And
+<hi>Cromwell</hi> bade <hi>Huntington</hi> aſſure the King, that <hi>if the Army remained an Army,</hi> his Maieſty ſhould truſt the propoſalls, with what was alſo promiſed, to be the worſt of his <hi>Conditions</hi> which ſhould be made for him; and ſtriking his hand on his Breaſt (in his Chamb<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r at <hi>Putney)</hi> bade the <hi>Maior</hi> tell the <hi>King,</hi> he might reſt confident, and aſſured of it<hi>:</hi> Which <hi>Meſſage</hi> was ſent many times to the <hi>King</hi> from them both; but with this addition from <hi>Ireton; That they would purge and purge, and never leave purging the houſes, till they had made them of ſuch a temper as ſhould doe his Maieſties buſineſſe: And rather than they would fall ſhort of what was promiſed, he would ioyne with</hi> Cavalier, French, <hi>or</hi> Spaniard, <hi>or any that would ioyne with them to force them to it.</hi>
+            </p>
+            <p>Yet notwithſtanding all this, it was not long after that his
+<hi>Maieſty</hi> was <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gled away into the Iſle of <hi>Wight;</hi> where he had not been above 6. dayes, but the very ſame <hi>Ireton,</hi> the godly Promiſer) ſtanding by the fire ſide in his Quarters at <hi>Kingſton,</hi> and ſome ſpeaking of an Agree<g ref="char:EOLhyphen"/>ment of Peace lik<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be made between the <hi>King</hi> and the <hi>Houſes,</hi> now he was out of the power of the <hi>Army Ireton</hi> replyed with a diſconten<g ref="char:EOLhyphen"/>ted-coun<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enance: <hi>That he hoped it would be ſuch a Peace, as they might with a good conſcience fight againſt them both.</hi>
+            </p>
+            <p>By theſe fore going <hi>Paſſages</hi> then it appeares plainly, to the ſhame of this <hi>R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>monſtrance;</hi> Firſt, that the <hi>Army</hi> firſt ſought to the <hi>King,</hi> and not he to them: Secondly, that their dealings with the <hi>King</hi> were pre<g ref="char:EOLhyphen"/>tended as high and abſolute for his
+<hi>Intereſt,</hi> as ever were the indea<g ref="char:EOLhyphen"/>vours of his own <hi>party:</hi> And laſtly, That their only aim in all this, was to give advantage to ſuppreſſe the <hi>Presbyterian</hi> party, and advance their own, and then to caſt off the King, and domineer over him and his <hi>People.</hi> This laſt Particular will be more cleare by that ſaying of
+<hi>Cromwell's</hi> in his Chamber at <hi>Kingſton,</hi> when he had plaid all his Prankes, and brought his <hi>deſign</hi> to perfection; <hi>That he knew nothing to the contrary, but that himſelf was as able to govern the Kingdom, as</hi> Hollis <hi>and</hi> Stapleton did before him. So that you ſee, <hi>Dominion</hi> and <hi>Rule</hi> was the only end of this unparallel'd <hi>Hypocriſie;</hi> he and his Son <hi>Ireton</hi> be<g ref="char:EOLhyphen"/>ing both apt Schollars of <hi>Machiavell,</hi> and follow his <hi>rules;</hi> who
+<pb facs="tcp:115262:11"/> counſells <hi>thoſe that meane to effect great matters, to make ſmall reckoning of keeping their words, and to know by their craft to turn and wind men about.</hi> Alſo, <hi>that ſuch men ought not to keep their faith given, when the obſervance there of turnes to the diſadvantage of their deſignes, and the occaſions that made them promiſe are once paſt.</hi> Likewiſe, <hi>that it is advantagious to ſeeme, pittifull, faithfull, mild, religions, and of integrity, and indeed to be ſo; Pro<g ref="char:EOLhyphen"/>vided, they be of ſuch a compoſition, that if need require them to uſe the con<g ref="char:EOLhyphen"/>trary, they can, and know how to apply themſelves thereto, and now and then to doe contrary to faith, charity, humanity, and religion; and to have a mind ſo diſpoſed, as to turn and take the advantage of all winds and fortunes.</hi> Theſe are <hi>Maximes</hi> which the <hi>godly ones</hi> of our Age have thriven by; this is the <hi>Goſpel</hi> which our <hi>new Saints</hi> have practiſed, to attaine unto this height of <hi>Tyrannys</hi> And now nothing will ſatisfie, but the deſtruction of that gracious
+<hi>Prince,</hi> to whom they made ſuch high promiſes: Hee muſt be brought to the <hi>Block</hi> to ſecure their <hi>Ambition,</hi> or elſe have at the <hi>Parliament:</hi> For, it is a profeſſed <hi>Maxim</hi> of their own, as Maior <hi>Huntington</hi> hath diſcovered. <hi>That it is lawfull to paſſe through any formes of Government<g ref="char:punc">▪</g> for the accompliſhing of their ends; and therefore either to purge the</hi> Houſes,
+<hi>and ſupport the remaining Party by power everlaſtingly, or put a period to them by Force.</hi>
+            </p>
+            <p>Nor doth Maior <hi>Huntington</hi> only diſcover this; but themſelves do as good as declare thus pag. 45. when they make another
+<hi>Argument</hi> a<g ref="char:EOLhyphen"/>gainſt the ſafety of an <hi>Accommodation</hi> with his Maieſty; becauſe (ſay they) <hi>if the King return, and this Parli<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment continue long and unlimited, he will be able to make a party among them.</hi> Nay (ſay they) <hi>he hath bid fair for it among the Commons already, &amp; the</hi> Lords <hi>are his own out of queſtion; &amp; therfore we dare not truſt the King among them:</hi> which is as much as to ſay, that if they cloſe with the King, they ſhal not ſit any longer but be diſſolved by <hi>Force:</hi> which muſt be looked for at laſt, it being a neceſſary <hi>preparative</hi> to that deviliſh <hi>deſign</hi> of bringing al under the <hi>military power,</hi> that is, the <hi>Power</hi> of themſelves and their <hi>Creatures.</hi> And therefore it is, that they declare for a diſſolution of this
+<hi>Parliament,</hi> after a certaine time, and they will ſo order the matter, that the next <hi>Parliament</hi> enſu<g ref="char:EOLhyphen"/>ing ſhall be altered from the <hi>fundamentall Forme,</hi> to be meerly <hi>popular,</hi> and none but thoſe of their own <hi>Faction</hi> to be elected; and then fare<g ref="char:EOLhyphen"/>wel for ever the glory of the <hi>kingdom.</hi> But more of this by and by, when I come to examine the ſeverall <hi>Propoſitions</hi> in the <hi>cloſe</hi> of their
+<hi>Remon<g ref="char:EOLhyphen"/>ſtrance.</hi>
+            </p>
+            <p>Their laſt Argument againſt the ſafety of an
+<hi>Accommodation</hi> by this <hi>Treaty</hi> is, becauſe no Proviſion is made by the <hi>Houſes</hi> againſt the <hi>Impu<g ref="char:EOLhyphen"/>nity</hi> 
+               <pb facs="tcp:115262:12"/>
+               <hi>of Kings</hi> in time to come, ſo as that they may remaine accountable for their <hi>Actions,</hi> and lyable to <hi>Iustice,</hi> or againſt the
+<hi>Impunity</hi> of this King in particular; which they conceive would be the only meanes of ſecurity to themſelves and the publique, and here they take occaſion to inveigh againſt thoſe <hi>maxims</hi> of our <hi>Law,</hi> that ſay, <hi>the King can doe no wrong;</hi> which were founded upon the ſame equitable Conſiderations of <hi>Policie</hi> in our own, as in other Kingdoms, it having been preſumed ever by all <hi>Legiſlators;</hi> That Kings, who are the <hi>common Fathers</hi> of the <hi>people</hi> cannot be ſo <hi>unnaturall,</hi> as to doe any thing willingly to their preiudice; and that if by accident they did, yet for the <hi>reverence</hi> due to <hi>royall Maieſty,</hi> it ſhould rather be imputed to the <hi>ill Councell</hi> of thoſe about them, than their own Inclination; foraſmuch as if a
+<hi>Soveraign Prince</hi> ſhould be left lyable to Accompt in a
+<hi>Criminall</hi> way, it would introduce confuſions in government, and the putting it once in execu<g ref="char:EOLhyphen"/>tion would bring more dammage and Inconveniences upon the <hi>Com<g ref="char:EOLhyphen"/>mon-wealth,</hi> than all the <hi>Enormities</hi> and
+<hi>Tyrannies</hi> he could commit throughout his whole <hi>Reigne.</hi> Upon which conſiderations it is that all wiſe <hi>Statesmen</hi> of our own and other <hi>Nations,</hi> have reckoned <hi>Impunity</hi> as a part of the
+<hi>Princes</hi> Prerogative, and inſeparable from his <hi>Crown</hi> and
+<hi>Dignity.</hi> And therefore away with the vanity of theſe <hi>puny Poli<g ref="char:EOLhyphen"/>ticians,</hi> whom nothing will ſatisfie, but that tranſcendent piece of <hi>Treaſon</hi> (on which the <hi>Jeſuits</hi> themſelves durſt never venture) to bring the ſacred perſons of Kings, to <hi>publique tryall</hi> and <hi>Execution.</hi>
+            </p>
+            <p>Having heitherto driven on the <hi>deſigne</hi> of their
+<hi>Remonſtrance,</hi> not upon matter of equity, but <hi>Iealouſies</hi> concerning their own <hi>ſecurity,</hi> and proſecuted it ſo farre, as that to ſave themſelves from ſuppoſed af<g ref="char:EOLhyphen"/>terclaps of <hi>Revenge,</hi> they make it lawfull to deſtroy their <hi>Prince;</hi> they in the next place proceed to anſwer what may be obiected againſt this Courſe from the
+<hi>Covenant;</hi> which binds all that have taken it, <hi>to the preſervation of the Kings perſon and Authority.</hi> This they ſay, is not to be underſtood abſolutly; but in a way ſubordinate to
+<hi>Religion</hi> and the <hi>pub<g ref="char:EOLhyphen"/>lique Intereſt,</hi> which were the principall and ſupreme matters ingaged for by <hi>Covenant;</hi> as appeares by that <hi>Clauſe</hi> [viz. <hi>In the preſervation of the true Religion and liberties of the kingdoms<g ref="char:punc">▪</g>]</hi> It hath been alwayes fear<g ref="char:EOLhyphen"/>ed that ſome ſuch uſe would be made (one time or other) of that <hi>clauſe</hi> of the Covenant: And therefore it was, that many learned and pious men refuſed the taking of it, witneſſe thoſe incomparable Reaſons of the Vniverſity of <hi>Oxford</hi> againſt it; among which this is one, <hi>that they knew not what conſtruction might be put upon that large clauſe, to the preiu<g ref="char:EOLhyphen"/>dice of his Maieſties royall perſon and authority.</hi> But though they indea<g ref="char:EOLhyphen"/>vour <pb facs="tcp:115262:12"/> to make a noſe of <hi>wax</hi> of it, and turne it any way by interpreta<g ref="char:EOLhyphen"/>tions moſt ſuitable to their <hi>Antimonarchicall principles</hi> and <hi>Deſigns,</hi> yet they cannot found any pretence thereupon to ſubvert the <hi>Lawes</hi> of the Land and <hi>Fundamentall conſtitutions</hi> of the Kingdome, the <hi>Covenant</hi> obliging in expreſſe termes to the maintenance of them, and theſe un<g ref="char:EOLhyphen"/>doubtedly are the true Foundations of the publique Jntereſt, and the <hi>Supporters</hi> alſo of the Kings perſon and Authority. By the Lawes of the Land, the King is the only <hi>Soveraign and ſupreame,</hi> and above the reach of all
+<hi>penall ſtatutes.</hi> which make it <hi>high Treaſon for any to attempt the leaſt force upon his perſon.</hi> Therefore to make ſuch a conſtruction of the <hi>Covenant</hi> (upon pretence of any Clauſe in it) that ſhall claſh with the Lawes of the Land, the maintenance whereof is one of the <hi>primary</hi> ends of it, is abſurd and rediculous. And therfore as long as by the fun<g ref="char:EOLhyphen"/>damentall Lawes and Conſtitutions of the Kingdom, the King is ex<g ref="char:EOLhyphen"/>empt from all <hi>Criminall</hi> proceedings againſt him by his Subiects, cer<g ref="char:EOLhyphen"/>tainly all men that have taken the Covenant are abſolutely and unde<g ref="char:EOLhyphen"/>niably bound by it, to defend his <hi>Maieſtie</hi> from ſuch horrid, and trea<g ref="char:EOLhyphen"/>ſonable intents and practiſes, to the dammage of his perſon, and de<g ref="char:EOLhyphen"/>ſtruction of <hi>Kingly power.</hi>
+            </p>
+            <p>Moreover, the <hi>Scotiſh</hi> nation, who were the firſt Founders of the Co<g ref="char:EOLhyphen"/>venant, and both Houſes of Parliament have publiſhed in ſeverall Declarations and all their <hi>Prieſts</hi> in the
+<hi>Pulpits;</hi> that the intent of the <hi>Covenant,</hi> in reſpect of his
+<hi>Maieſtie,</hi> was only, that <hi>His Throne ſhould be eſtabliſhed in righteouſneſſe;</hi> and though they made uſe of that
+<hi>Clauſe,</hi> thereby to ſuſpend him from the <hi>Ex<g ref="char:EOLhyphen"/>erciſe of regall power, till ſatisfaction given to the deſires of the Parliament of both Kingdomes, yet it was never</hi> in their thoughts to ſtrain it ſo farr, as that in caſe he ſtood out againſt their de<g ref="char:EOLhyphen"/>ſires, they would proceed in a <hi>Criminall</hi> way againſt their <hi>Lord</hi> and
+<hi>Soveraigne.</hi> And therefore it is cleare againſt theſe
+<hi>Anarchiſts,</hi> both from the primary civill end of the
+<hi>Covenant,</hi> and the practiſe of its <hi>Founders,</hi> that it obligeth all thoſe which have taken it, to defend the <hi>Perſon</hi> of the <hi>King's moſt Excellent Maieſty,</hi> according to the Fundamentall Lawes and Conſtitutions of the Kingdom, againſt all <hi>treaſonous, illegall,</hi> and <hi>arbitrary</hi> Proceedings, by way of <hi>Criminall Accuſation.</hi>
+            </p>
+            <p>Now we are come at length to the Concluſion of this tedi<g ref="char:EOLhyphen"/>dious
+<hi>Remonſtrance,</hi> which conſiſts of ſeverall Propoſitions, grounded upon the frivolous <hi>premiſes</hi> already confuted. They
+<pb facs="tcp:115262:13"/> are of two ſorts. In the firſt they propound ſuch things, as they pretend are for the <hi>ſatisfaction of publique Iuſtice.</hi> In the ſecond ſuch as are for the ſetling (or rather un-ſetling) of the King<g ref="char:EOLhyphen"/>dom. In order to juſtice, firſt they propound; <hi>That the perſon of the King may be ſpeedily brought to Iuſtice.</hi> If I ſhould cite the innumerable Teſtimonies of Antiquity and our Modern writ<g ref="char:EOLhyphen"/>ters againſt this prodigious <hi>principle,</hi> I might ſwell into <hi>a vo<g ref="char:EOLhyphen"/>lumne</hi> it is contrary to the very <hi>law of nature, reaſon,</hi> the
+<hi>conſtituti<g ref="char:EOLhyphen"/>ons</hi> of all <hi>Kingdomes</hi> and the whole tenor of the
+<hi>Scriptures; Im<g ref="char:EOLhyphen"/>punity</hi> being an inſeparable <hi>adiunct</hi> of
+<hi>Kings</hi> as they are <hi>Supreme</hi> in their Kingdomes, For, if there can be no true kingdome where the <hi>King</hi> is not inveſted in the
+<hi>Supremacy.</hi> As <hi>King</hi> he is <hi>Iudge</hi> of <hi>Iudges,</hi> and ſubiect to the judgement of none other but <hi>God</hi> himſelf<hi>:</hi> For, it is contrary to nature, that the <hi>Superior</hi> ſhould be judged by the <hi>Inferior;</hi> but the people (take them
+<hi>collective)</hi> are Inferior to their Monarch; for, that cannot bee called a <hi>Monarchy,</hi> which admits either of a Superior or an e<g ref="char:EOLhyphen"/>quall: And therefore the People cannot exerciſe any power or Iuriſdiction over their
+<hi>Soveraigne;</hi> foraſmuch as it proceeds from himſelf, and cannot ſubſiſt one moment without him, he being as it were the Fountain of Authority. As ſay all our ſta<g ref="char:EOLhyphen"/>tute and Law-Books, S. <hi>Peter</hi> bids us, <hi>Submit to every Ordinance of man for the Lords ſake, whether it be to the King as ſupreme; or unto Governours as thoſe that are ſent by him. As free, and not uſing your liberty for a Cloake of maliciouſneſſe, but feare God, Ho<g ref="char:EOLhyphen"/>nour the King.</hi> A text which plainly ſhewes, that the people ſhould not ſtretch their liberty <hi>to the preiudice of the royall au<g ref="char:EOLhyphen"/>thority. Thou ſhalt not ſpeak ill of the Governour of the people, much leſſe deſtroy him.</hi> Give the people liberty once of iudgeing their King, and all things are preſently out of Order conſidering the ignorance, the audacity, the levity and inconſtancie of the vul<g ref="char:EOLhyphen"/>gar, For by this meanes it falles out oftentimes, that thoſe <hi>Princes</hi> which diſerve beſt, are worſt handled; as hiſtories do witneſſe concerning <hi>Coriolanus, Camillus, Themiſtocles, Phocian,</hi> and divets others both antient and modern.</p>
+            <q>Scinditur incertum ſtudia in contraria vulgus.</q>
+            <p>
+               <pb n="21" facs="tcp:115262:13"/> For, ſuch is the nature of the multitude, that they are greedy ſtill after <hi>Novelties,</hi> and great admirers of them, till they have a little expe<g ref="char:EOLhyphen"/>rience, and then they would willingly change again, being led with vaine hopes of advantage, upon every <hi>Innovation.</hi> And therefore if <hi>Princes</hi> were under the correction of their Subjects, both good and bad would ſuffer alike. Such was the inſolence of the
+<hi>Lacedemonian Ephori</hi> toward their <hi>Kings,</hi> that they would call them to accompt for every <hi>Trifle,</hi> and puniſhed King
+<hi>Archidamus</hi> for no other cauſe, but becauſe he took a little woman to wife; and it was uſuall among the <hi>Goths</hi> in <hi>Spain,</hi> to murther their Kings, as oft as they diſtaſted them. Moreover, ſhould all Kings of this Nation remain lyable to queſtion by the people (as our
+<hi>Remonſtrants</hi> require) in time to come, they muſt ever be ſubject to <hi>Slanders</hi> and <hi>Snares,</hi> becauſe then every ambi<g ref="char:EOLhyphen"/>tious popular perſon would be ready to pick holes in their <hi>Coates,</hi> to bring them into disfavour of the People; and ſo that would be ſuffici<g ref="char:EOLhyphen"/>ent cauſe of condemnation.</p>
+            <p>Admit theſe things once, and who ſees not, how all things would run to confuſion, and how great miſchiefes, ſuch a diſſolute and <hi>licen<g ref="char:EOLhyphen"/>tious Liberty</hi> would bring upon <hi>Kings</hi> and
+<hi>Kingdomes?</hi> But it happens alſo moſt often in theſe Caſes, That not all the People, nor the <hi>ma<g ref="char:EOLhyphen"/>jor</hi> part, do conſent to the condemning of their King, but ſome few (perhaps) that have gotten the power into the hands of their <hi>Faction.</hi> Theſe (to ſet off their Actions) cry up their own <hi>Intereſt</hi> for the <hi>Inte<g ref="char:EOLhyphen"/>reſt</hi> of the
+<hi>Common-wealth,</hi> and ſo under pretence of the <hi>publick Good,</hi> proſecute their <hi>private ends,</hi> to the ruine of the <hi>Prince,</hi> and condemne him as an <hi>Enemy</hi> to the People.</p>
+            <q>Quis furor, ô populus, quae tanta licentia Ferri?</q>
+            <p>An example of this we have among our neighbours, in <hi>Henry</hi> the Third of <hi>France;</hi> againſt whom ſome few <hi>Cities</hi> revolted at firſt, which were headed by ſome ſmall number of the
+<hi>Nobility;</hi> afterwards more and more, till at length the <hi>Rebels grew</hi> formidable; and though they were but a contemptible part in compariſon of the reſt, yet they aſſumed the Reputation of the whole, pretended the publique Good, declared againſt their King as a
+<hi>Tyrant,</hi> to defend the <hi>Rights</hi> and <hi>Li<g ref="char:EOLhyphen"/>berties</hi> of the People, and at length proceeded ſo high as to give <hi>Sen<g ref="char:EOLhyphen"/>tence</hi> againſt Him, and renounce the Allegiance to Him, &amp; give publick Command, that none ſhould dare to acknowledge Him their King. The <hi>Parallel</hi> to this, was the <hi>Conſpiracy</hi> occaſioned by the Baſtard
+<hi>Murray,</hi> againſt that unfortunate Lady, <hi>Mary</hi> Queen of
+<hi>Scots,</hi> our Kings <pb n="22" facs="tcp:115262:14"/> Grandmother; ſo likewiſe is his own caſe at preſent, being at the mercy of a mercileſſe petty
+<hi>Faction,</hi> that have uſurped the power of the Kingdome into the power of their hands, cry up their own corrupt <hi>Intereſt</hi> to be the
+<hi>Intereſt</hi> of the <hi>Kingdome,</hi> Themſelves to be the
+<hi>People,</hi> and ſo by a new kind of <hi>Logick</hi> conclude him to be the <hi>publique Enemy</hi> of the People, and a <hi>Tyrant,</hi> becauſe they have no way to eſtabliſh their own <hi>Tyranny,</hi> but by deſtroying His Perſon, under pretence of <hi>Juſtice,</hi> and caſhiere
+<hi>Kingly Government,</hi> to in<g ref="char:EOLhyphen"/>troduce a <hi>new Forme</hi> of their owne, wherein themſelves will be <hi>Princes.</hi>
+            </p>
+            <p>In order whereunto it is, and not out of any conſideration of
+<hi>equity,</hi> (for in this there can be none) that they would bring <hi>His Majeſty</hi> to <hi>publique Execution;</hi> becauſe they well know, this one <hi>ſtroke</hi> would give the <hi>fatall Blow</hi> to <hi>Monarchy;</hi> For it would take away the very life of <hi>Majeſty,</hi> which conſiſts in the <hi>Impunity,</hi> or exemption from <hi>penall Sta<g ref="char:EOLhyphen"/>tutes.</hi> Subject a <hi>King</hi> once to be judged and condemned by the <hi>Peo<g ref="char:EOLhyphen"/>ple,</hi> upon any pretence whatſoever, then it followes preſently, that the power is declared in their <hi>Hands,</hi> and ſo the <hi>Kingly Government</hi> is defunct, and changed <hi>ipſo facto</hi> to a <hi>popular.</hi> And therefore it is ap<g ref="char:EOLhyphen"/>parent, that the <hi>Army,</hi> by Remonſtrating againſt their
+<hi>King,</hi> and demanding Him thus to <hi>Juſtice,</hi> intend no leſſe then the ruine of <hi>Mo<g ref="char:EOLhyphen"/>narchy,</hi> and the rearing up of a kind of a <hi>military-democraticall</hi> Forme of Government; which, by aboliſhing our old Lawes, and leaving none but that of the <hi>Sword,</hi> muſt needs be abſolutely <hi>Tyrannicall</hi> over our Eſtates, <hi>Lives,</hi> and
+<hi>Liberties.</hi> This is the true <hi>drift</hi> of their firſt
+<hi>Propoſition.</hi> Give ear, and regard, O ye <hi>Commons</hi> of
+<hi>England,</hi> leſt under a ſpecious <hi>pretence</hi> for the
+<hi>Liberty of the People</hi> (which <hi>Cromwell</hi> himſelf once called a meer <hi>Chimaera,</hi> and a thing not to be conten<g ref="char:EOLhyphen"/>ded for) ye be drawne into
+<hi>Parricide</hi> and perpetuall <hi>Slavery.</hi>
+            </p>
+            <p>Nor doe they rage only againſt the <hi>Perſon</hi> of the
+<hi>King,</hi> but in the ſe<g ref="char:EOLhyphen"/>cond <hi>Propoſition,</hi> they endeavour to ſhake off His <hi>Poſterity;</hi> and there<g ref="char:EOLhyphen"/>fore they propound theſe harſh <hi>Conditions</hi> concerning the Prince of <hi>Wales,</hi> and the Duke of <hi>York,</hi> either to yeild themſelves up to their mercy at a
+<hi>certaine day;</hi> to acquit themſelves of their <hi>Capitall Delin<g ref="char:EOLhyphen"/>quency</hi> (as they call it) or elſe to be at their diſcretion, whether they ſhall follow their <hi>Royall Father</hi> to the
+<hi>Shambles.</hi> Theſe are fine <hi>Con<g ref="char:EOLhyphen"/>ditions</hi> for the <hi>two Princes</hi> to be ſummoned in upon, are they not? But knowing theſe wil never be accepted, this <hi>Summons</hi> is but pretended to blear the eyes of the <hi>People,</hi> and inſinuate their Guilt, if they re<g ref="char:EOLhyphen"/>fuſe
+<pb n="23" facs="tcp:115262:14"/> to appear; that ſo they may exclude the next Heires of the <hi>Crown,</hi> the more plauſibly, in order ſtill to their deſigne of changing the <hi>Government.</hi> And therefore it is likewiſe, that in this <hi>Propoſition,</hi> they demand the <hi>Revenue</hi> of the
+<hi>Crown</hi> may continue ſtill in <hi>Huck<g ref="char:EOLhyphen"/>ſters</hi> hands, and the
+<hi>Pomp</hi> of it be ſuſpended, to make amends (they ſay) for
+<hi>publique Debts,</hi> (which are all in the <hi>Pockets</hi> of their
+<hi>Faction)</hi> and <hi>repaire the loſſes of the People,</hi> but indeed to be ſhared among them and their <hi>Creatures,</hi> who uſurpe the name and reputation of the PEOPLE; all which whoſoever ſeriouſly
+<hi>conſiders,</hi> will ſee theſe things are but <hi>preparatory</hi> to the caſhiering of <hi>Kingly Government.</hi> In Order to this deſigne ſtill, it is alſo, That in the <hi>third</hi> and fourth-Pro<g ref="char:EOLhyphen"/>poſitions, they demand the bringing of His <hi>Majeſties Principall Friends</hi> to the
+<hi>Block,</hi> not reckoning themſelves ſafe, as long as their
+<hi>Heads</hi> are on their <hi>ſhoulders.</hi> And for the reſt that have ſerved Him, though they claw with them in preſſing, that <hi>moderate Fines</hi> may be ſet upon them for <hi>Delinquency;</hi> yet they deprive them of their <hi>native Birth-rights,</hi> ſo long as ſhall ſeeme good unto theſe new <hi>Conquerors,</hi> and ſo they ſhall be no more but in the condition of <hi>Slaves</hi> to this inſolent <hi>Faction,</hi> all over the <hi>Kingdome.</hi> And thus you ſee, what is the <hi>deſigne,</hi> and like to be the <hi>Iſſue</hi> of their pretended <hi>publique Juſtice.</hi>
+            </p>
+            <p>Next, they proceed to propound towards the <hi>Settlement</hi> of the <hi>Kingdome</hi> both in relation to the <hi>Parliamentary</hi> and
+<hi>Kingly</hi> power, in time to come. Firſt, as the <hi>Parliamentary,</hi> they demand, <hi>That ſome reaſonable, and certaine period may be ſet to this Parliament, by which time, that Supreme Truſt in them may return unto the People.</hi> That is, themſelves and their <hi>Faction;</hi> for, They only will be <hi>the People.</hi> But the People of <hi>England</hi> may do well to conſider, that the <hi>King</hi> being outed of all <hi>Power,</hi> there is no <hi>viſible Authority</hi> left at preſent, but that in the
+<hi>two Houſes,</hi> who are now the only <hi>Bulwarks</hi> againſt
+<hi>mili<g ref="char:EOLhyphen"/>tary Tyranny;</hi> and the diſſolving them before the
+<hi>King</hi> be re-inveſted, will leave us all in the power of the
+<hi>Army,</hi> and then as that <hi>Leveller</hi> Major <hi>White</hi> ſaid at <hi>Putney</hi> in the <hi>Generall Councell,</hi> (for, he knew it was deſigned then, and could not chuſe but utter it) there will be <hi>no viſible Authority left in the Kingdome, but the power of the Sword;</hi> which will introduce a new <hi>Parliament</hi> of its own <hi>Creatures,</hi> as ap<g ref="char:EOLhyphen"/>peares by what followes, wherein they exclude all from the power of
+<hi>Election,</hi> or being <hi>elected,</hi> that are not of their
+<hi>Faction.</hi> And ſo fare<g ref="char:EOLhyphen"/>well the <hi>Government,</hi> and glory of our
+<hi>Nation.</hi>
+            </p>
+            <p>For proof of this, obſerve next what they propound concerning the <pb n="24" facs="tcp:115262:15"/> 
+               <hi>Suceſſion of future Parliaments:</hi> Firſt, that <hi>none ſhall be capable of electing, or being elected, that have ingaged againſt the publique Intereſt, nor any that oppoſe them in this Agreement.</hi>
+            </p>
+            <p>Secondly, <hi>that Elections may be ſo diſtributed, as to render the Houſe of Commons, as near as may be, a Repreſentative of the whole People; and that the certainty of the Peoples meeting to Elect may be provided for.</hi> So farewell the ancient <hi>Legall</hi> way of
+<hi>Electing,</hi> by the <hi>Kings Writ</hi> or <hi>Summons;</hi> it being inherent in the <hi>Prerogative</hi> of all <hi>Kings,</hi> to call, and diſſolve the <hi>Supreme Aſſemblies.</hi> If this courſe alſo be taken to give all men <hi>voices</hi> in <hi>Electing,</hi> then it will ſeldome happen, that they wil ever agree; which will be the cauſe of innumerable <hi>Riots</hi> and <hi>Confuſions,</hi> at every
+<hi>Election.</hi>
+            </p>
+            <p>Thirdly, <hi>That it be declared, that the Repreſentatives of the People (by them Elected) ſhall have the Supreme Truſt and Power, as to making of Lawes.</hi> So farewell the <hi>Negative Voice</hi> of the
+<hi>King</hi> and <hi>Nobility,</hi> and with it the Ancient and <hi>Legall Conſtitutions</hi> of Parliament.</p>
+            <p>Laſtly, They propound, that our <hi>Kings</hi> in time to come may be <hi>Elective,</hi> and upon their <hi>Coronation</hi> diſclaime any
+<hi>Negative Voice</hi> to the determinations of the ſaid
+<hi>Repreſentatives,</hi> and ſubſcription to this <hi>Agreement.</hi> And ſo inſtead of <hi>Kings,</hi> they would ſet up meere
+<hi>Scare-crowes</hi> of <hi>Royaltie.</hi> But (alas) this is to amuſe the People with the name of <hi>King,</hi> when as they intend no ſuch matter; for, an <hi>Elective Kingſhip</hi> without a <hi>Negative Voice</hi> is none at all, it being a received <hi>Maxim</hi> among all <hi>Polititians; That there is a neceſſity the Supreme Power ſhould reſide in the hands of one, or of few, or of many.</hi> The firſt is the Government of a
+<hi>Monarch,</hi> or <hi>King;</hi> the ſecond, that of <hi>States;</hi> the third is <hi>Democraticall,</hi> or <hi>Popular.</hi> Now though it cannot be de<g ref="char:EOLhyphen"/>nied, that the power of a <hi>King</hi> may be more or leſſe abſolute, accor<g ref="char:EOLhyphen"/>ding to the ſeverall <hi>Qualifications</hi> or <hi>Reſtrictions</hi> laid upon it, by the mixture of any other Power with it (as by the conſtitution of this <hi>King<g ref="char:EOLhyphen"/>dome,</hi> there is a mixture of all the three Powers in <hi>King, Lords,</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons;)</hi> yet if either of theſe <hi>Powers</hi> incroach upon the other, they change their
+<hi>nature.</hi> As for example, if the <hi>Ariſtocraticall</hi> part preſcribe rules to the <hi>Monarch,</hi> and take away his <hi>Negative Voice,</hi> it can be no longer a <hi>Monarchie</hi> or <hi>Kingdome;</hi> and ſo, if the <hi>Popular</hi> preſume to take away <hi>Ius imperii</hi> from the <hi>Ariſtocracy,</hi> it can be no longer a Government by
+<hi>States:</hi> ſo that the <hi>Remonſtrants</hi> in allowing us an
+<hi>elective King,</hi> but denying Him a <hi>Negative voice</hi> (the very ſubſtance of <hi>Soveraignty)</hi> do but delude us with a
+<hi>Mockery,</hi> and by placing the ſupreme power <pb n="25" facs="tcp:115262:15"/> of
+<hi>making</hi> and <hi>repealing</hi> Lawes in the <hi>People,</hi> do aime to eſtabliſh a meere <hi>popular Tyrannie,</hi> which they will aſſume unto themſelves, under the <hi>Nation</hi> of the PEOPLE, to the deſtruction of our <hi>Laws</hi> and <hi>Li<g ref="char:EOLhyphen"/>berties:</hi> For, it is a ſure
+<hi>Rule,</hi> That thoſe that ſeeke to make themſelves <hi>Lords,</hi> by force of Armes, over their <hi>fellow-ſubjects,</hi> under pretence of reforming their <hi>Princes defects</hi> in government, are alwaies, if they have ſucceſſe, more cruell and <hi>tyrannous,</hi> then thoſe againſt whoſe govern<g ref="char:EOLhyphen"/>ment they fancied <hi>Exceptions;</hi> and regard the
+<hi>common-good</hi> no further, then it conduceth to their own wicked ends and purpoſes.</p>
+            <p>There are too many evidences of this Truth, to be found in
+<hi>Hiſtory;</hi> I ſhall inſtance onely in two moſt notable, and which come cloſe to our Time. The firſt is fetch'd from the City
+<hi>Syracuſa,</hi> which had been long governed by <hi>hereditary</hi> Kings, virtuous and juſt, ſave onely <hi>Thraſihulus,</hi> the laſt of the race of <hi>Gelon,</hi> was ſuſpected to be a <hi>Tyrant,</hi> and therefore the <hi>Syracuſians</hi> depoſed him after ten monethes govern<g ref="char:EOLhyphen"/>ment. After they had depoſed him, to prevent the greatneſſe of any one among them for the future, they deviſed a kind of <hi>Baniſhment</hi> of ſuch among them as ſhould at any time be ſuſpected, taking pattern from the <hi>Athenian oſtraciſme;</hi> and this their new deviſed judgement they called <hi>Petaliſmus,</hi> wherein every one wrote upon an
+<hi>Olive-leafe</hi> (as at <hi>Athens</hi> they did upon <hi>ſhels)</hi> the name of him, whom they would have expelled the <hi>City;</hi> and he that had moſt ſuffrages againſt him, was <hi>baniſhed the City for five years.</hi> Hhereby in a ſhort time it came to paſſe, that the
+<hi>Nobility</hi> having learned to baniſh one another, the <hi>State</hi> became wholly <hi>popular,</hi> which was a <hi>curſe</hi> ſufficient to their <hi>City,</hi> ſince nothing is ſo terrible in any State, as a
+<hi>powerfull,</hi> and <hi>authoriſed ig<g ref="char:EOLhyphen"/>norance.</hi> This
+<hi>Democracy</hi> carried it ſelf ſo wickedly, that God raiſed up
+<hi>Dionyſius</hi> the Tyrant, to take vengeance as well of their cruelty toward ſtrangers, as their owne beſt <hi>Citizens;</hi> for, they had made it their paſtime to reward the worthieſt with <hi>diſgrace,</hi> or
+<hi>death.</hi> So that the meanes by which <hi>Dionyſius</hi> got their favour, grew from his accu<g ref="char:EOLhyphen"/>ſing the principal men. <hi>It is the delight of baſe people to domineere over their betters:</hi> wherefore he helpe them to breake, as <hi>Fetters</hi> impriſo<g ref="char:EOLhyphen"/>ning their <hi>liberty,</hi> the
+<hi>Bars</hi> that held it under ſafe <hi>Custody.</hi> And after that he had uſurped the Government to himſelſe (I pray God our <hi>Cromwell</hi> take not after him, for, he hath traced him thus far already) he ſpared none of his known, nor ſuſpected Enemies: he was the grea<g ref="char:EOLhyphen"/>teſt <hi>Robber</hi> that ever lived in any State, and the moſt impartially cruell, rnd ſo proved a fit ſcourge to them for expelling their <hi>Kings,</hi> and erecting a <hi>popular Government.</hi>
+            </p>
+            <p>
+               <pb n="26" facs="tcp:115262:16"/> But my ſecond <hi>inſtance</hi> (and the moſt notorious one) is from <hi>Athens.</hi> This City, and Territory of
+<hi>Attica,</hi> had been originally go<g ref="char:EOLhyphen"/>verned, and very proſperouſly by
+<hi>hereditary Kings.</hi> And becauſe that <hi>Codrus</hi> the thirtieth King of that Race, willingly died for the ſafety of his People, he was therefore ſo honoured, as thinking none worthy to ſucceed him, they changed their former government from <hi>Monarchi<g ref="char:EOLhyphen"/>call,</hi> to Princes for tearme of life; of which <hi>Medon</hi> the ſon of <hi>Codrus</hi> was the firſt; of whom his ſucceſſours by <hi>election</hi> which were <hi>twelve</hi> in number, were called <hi>Medontidae:</hi> But after experience, that thoſe
+<hi>Elective Princes</hi> (who had no hereditary right to the <hi>Crowne,</hi> but only a limitation of government to their lives) and for that onely reaſon made a prey of the People, &amp; ſtudied more to rob them for particular advantage, then to manage the government for the <hi>publique good,</hi> they laid aſide that forme of Government, and appointed <hi>Archons,</hi> or
+<hi>De<g ref="char:EOLhyphen"/>cennall</hi> Governors, that is, one Prince for <hi>ten years;</hi> but finding the like inconvenience in that, with ſomewhat a more ſwift rapine, be<g ref="char:EOLhyphen"/>cauſe their time of gaine was ſhorter, then after the tryall of ſeven of theſe <hi>Decennall</hi> Governors, they buried that Forme, and ſet up
+<hi>annuall</hi> or <hi>yearly Magiſtrates:</hi> But their oppreſſion was ſo great, that that <hi>Forme</hi> continued but <hi>ſeven ſucceſſions,</hi> of whom <hi>Solon,</hi> that moſt excellent
+<hi>Lawgiver,</hi> was the laſt: And and ſo after many experiments, this gid<g ref="char:EOLhyphen"/>dy People finding no better reſt then in <hi>Monarchy,</hi> ſubmitted againe to it under <hi>Piſiſtratus,</hi> who left the Crowne to his Son
+<hi>Hippias;</hi> and then another <hi>Toy</hi> taking theſe inconſtant
+<hi>Athenians,</hi> they drove him out of his Kingdome, and enforced him to flye unto <hi>Darius</hi> King of <hi>Perſia,</hi> to crave aid for reſtitution; which was the onely cauſe of all the Wars,
+<hi>Commotions,</hi> and <hi>Troubles,</hi> that followed in <hi>Greece,</hi> for 300. yeares after, to the utter ruine, and inſlaving of the
+<hi>Nation.</hi>
+            </p>
+            <p>After <hi>Hippias</hi> was thus driven out, they erected a pure
+<hi>Democracy,</hi> or <hi>Government by the people.</hi> Herein they were ſo inſolent, that no Integrity, no good deſert was able to preſerve the eſtate of any ſuch as had born any <hi>great Office,</hi> longer then by flattering the raſcall Multi<g ref="char:EOLhyphen"/>tude, he could form all his words and Actions to their good liking: (behold here, O ye <hi>Nobles</hi> and <hi>Gentry</hi> of
+<hi>England,</hi> and yee wealthy <hi>Citizens</hi> of <hi>London,</hi> what ye muſt come to) Nay, they baniſhed their famous Generall
+<hi>Themiſtocles</hi> (looke to it then <hi>Fairfax)</hi> who had been their only deliverer from the fury of the <hi>Perſian,</hi> onely for in<g ref="char:EOLhyphen"/>deavouring to reſtraine by wiſe counſels the riotous exceſſe of their ex<g ref="char:EOLhyphen"/>treame folly and Madneſſe. At length the principall men of <hi>Athens</hi>
+               <pb n="27" facs="tcp:115262:16"/> conſpiring with the <hi>Captaines</hi> abroad, cauſed them to ſet up the Forme of an <hi>Ariſtocracy</hi> in the Townes of their
+<hi>Confederates,</hi> &amp; in a ſhort time the Majeſty of <hi>Athens</hi> was uſurped by <hi>foure hundred</hi> men, who imbroyled the State in a bloody and furious War with the <hi>Pelopone<g ref="char:EOLhyphen"/>ſians,</hi> which was the ruine of their <hi>City,</hi> and ſubverſion of their Wals.</p>
+            <p>After a time reviving againe, in hope to better their diſtracted con<g ref="char:EOLhyphen"/>dition, they choſe <hi>thirty Governours,</hi> commonly called the
+<hi>thirty Ty<g ref="char:EOLhyphen"/>rants</hi> of <hi>Athens.</hi> Theſe having (by degrees) drawne all Power into their hands, were more carefull to hold it then deſerve it, and imployed it onely to oppreſſion, and ſhedding the Blood of all thoſe whom they made, or counted their Enemies, that they might in rich themſelves and friends, with their Lands and poſſeſſions. And the bet<g ref="char:EOLhyphen"/>ter to maintaine and ſecure themſelves in theſe cruell courſes, after they had by Force over-awed all the <hi>Territories</hi> of that
+<hi>State</hi> round about, they made a <hi>Faction</hi> of their owne in the City of <hi>Athens</hi> (as our <hi>Remonſtrants</hi> have now in
+<hi>London;)</hi> which being done, they diſarmed all others whom they could not draw to their <hi>Party,</hi> and ſetled a <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> of three
+<hi>thouſand Citizens</hi> to keepe the reſt of their <hi>fellows</hi> in ſub<g ref="char:EOLhyphen"/>jection. Looke to thy ſelfe then <hi>London;</hi> for, if they cannot worke thee to ingage with them, they muſt of neceſſity take the ſame courſe with thee to carry on their <hi>deſigne:</hi> And then thou muſt looke to fare no better then did the poor <hi>Athenians.</hi> For when the
+<hi>thirty Tyrants</hi> had thus eſtabliſhed their <hi>Tyrannie,</hi> they far exceeded their former <hi>Villanies,</hi> plundring all without fear or ſhame, diſpoyling them of Lands and Goods, and forcing them to flye into
+<hi>Baniſhment</hi> to ſave their <hi>lives.</hi> In concluſion, the
+<hi>City</hi> being tired out with theſe outrages and extre<g ref="char:EOLhyphen"/>mities, when they had ſmarted ſufficiently, began to find their owne ſtrength, and all as one man roſe up, and ſlew them; which done, to avoid future inconveniences, all was ſalved up with a generall Act of <hi>Oblivion,</hi> and the State recovered its former Peace and Tranquillity.</p>
+            <p>Many more <hi>inſtances</hi> might be given, but none more pat then theſe for the preſent occaſion; wherein (as in a glaſſe) every man may be<g ref="char:EOLhyphen"/>hold thoſe fatall miſeries and confuſions, that muſt needs enſue a change of the <hi>Kingly</hi> to a <hi>popular,</hi> or (as the caſe now ſtands with us) to a <hi>Military</hi> Government; which I have proved clearly unto the world to be the deſigne of this
+<hi>Remonſtrance,</hi> to the utter ſubverſion of our <hi>Laws,</hi> the
+<hi>fundamentall conſtitutions</hi> and <hi>Priviledges</hi> of
+<hi>Parliament,</hi> with the deſtruction of the <hi>King</hi> and His
+<hi>Poſterity,</hi> and the inſlaving of the <hi>Kingdome.</hi> What remaines then, but that the <hi>Lords</hi> and <hi>Commons</hi>
+               <pb n="28" facs="tcp:115262:17"/> in <hi>Parliament,</hi> doe ſtand up now for their
+<hi>Priviledges,</hi> the <hi>Laws,</hi> and the maintenance of
+<hi>Monarchy,</hi> and yet (if it be poſſible) revive the dying hopes of the <hi>Nation</hi> with an <hi>Agreement</hi> by this <hi>Treaty;</hi> for as much as His <hi>Majeſty</hi> is (and of neceſſity muſt be) the
+<hi>Baſis</hi> of a <hi>ſettle<g ref="char:EOLhyphen"/>ment.</hi> Let the <hi>people</hi> underſtand how much you abhor the contrary, and then you can never want their
+<hi>hearts</hi> and <hi>hands</hi> to aſſiſt you: And if any of you ſhould miſcarry, and be purged out of the <hi>Houſe</hi> (as ſome of you have been heretofore by this <hi>Faction)</hi> and forced to baniſh<g ref="char:EOLhyphen"/>ment, it will be your chiefeſt glory in time to come, that you ſuffered in the behalfe of your <hi>King</hi> and <hi>Country.</hi>
+            </p>
+            <closer>If I periſh, I periſh.</closer>
+            <epigraph>
+               <q>
+                  <l>—Nec me vidêre ſuperbum</l>
+                  <l>Proſpera fatorum, nec fractum Adverſa videbunt.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
